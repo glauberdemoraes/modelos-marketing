@@ -1,0 +1,12 @@
+{
+  "filename": "ficha-analise-claude.pdf",
+  "title": "Ficha: analisar carrosséis com Claude",
+  "intro": "Use exemplos como pistas. Não copie texto, identidade visual ou promessa. Cole abaixo informações públicas e dados seus; não envie dados pessoais de terceiros.",
+  "sections": [
+    {"heading": "1. Colete três exemplos", "text": "Para cada post, anote link, assunto, primeira frase, número de cards, tipo de prova e CTA. Anote o alcance apenas se você tiver acesso ao dado. Curtidas isoladas não comprovam conversão."},
+    {"heading": "2. Prompt de análise", "text": "Analise estes três carrosséis [cole textos ou descreva cards]. Para cada um, identifique: pergunta aberta no hook, sequência de argumentos, evidência apresentada, momento da virada e ação pedida. Cite o trecho que sustenta cada conclusão. Marque o que não dá para saber."},
+    {"heading": "3. Sua hipótese original", "text": "Meu público é [público]. A dúvida real é [pergunta]. Minha tese é [ideia própria]. Tenho [dado ou exemplo] como prova. Peça ao Claude três estruturas de seis cards. Exija capa curta, segundo card independente, desenvolvimento, resumo e um CTA."},
+    {"heading": "4. Teste e comparação", "text": "Publique uma versão. Registre data, alcance, retenção ou avanço nos cards, salvamentos, respostas e conversas qualificadas, conforme os dados disponíveis. Compare com sua própria média. Reescreva uma variável por vez."}
+  ],
+  "outro": "Mini instrução: comece com três posts, preencha a ficha, use o prompt, revise fatos e direitos de uso, publique uma variação original e volte aos dados."
+}

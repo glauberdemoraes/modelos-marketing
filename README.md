@@ -41,3 +41,8 @@ A [ficha em PDF](06-analisar-viral/ficha-analisar-post.pdf) separa métricas, hi
 
 O [PDF com 24 prompts](07-24-prompts-claude/24-prompts-claude-marca.pdf) organiza atração, educação, conversa e conversão. Escolha um prompt por vez, forneça dados reais e revise a resposta antes de publicar.
 
+
+## 08. Ficha de análise com Claude
+
+A [ficha em PDF](08-ficha-claude-viral/ficha-analise-claude.pdf) reúne coleta de três exemplos, prompt de análise, hipótese original e medição.
+
