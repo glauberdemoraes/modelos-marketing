@@ -16,8 +16,8 @@
       "text": "Não terceirize uma decisão de investimento. Peça cenários, riscos, premissas e fontes para sua própria análise. Prompt: Analise este caso para dinheiro. Primeiro explique o problema com evid?ncias, depois proponha a menor melhoria poss?vel e diga como eu posso verificar se funcionou. Dados do meu caso: [cole aqui, sem informa??es sens?veis]."
     },
     {
-      "heading": "04 / POLÍTICA",
-      "text": "Não peça em quem votar. Compare propostas, histórico e critérios que você considera importantes; confira fontes primárias. Prompt: Analise este caso para política. Primeiro explique o problema com evid?ncias, depois proponha a menor melhoria poss?vel e diga como eu posso verificar se funcionou. Dados do meu caso: [cole aqui, sem informa??es sens?veis]."
+      "heading": "04 / RELACIONAMENTOS",
+      "text": "N?o pe?a ? IA para julgar outra pessoa por uma mensagem. Pe?a leituras poss?veis e perguntas para conversar diretamente. Prompt: Leia esta mensagem de forma imparcial. Apresente pelo menos tr?s interpreta??es plaus?veis, o que eu ainda n?o sei e perguntas respeitosas para esclarecer diretamente com a pessoa. Mensagem: [cole aqui sem dados privados]."
     },
     {
       "heading": "05 / CARREIRA",
