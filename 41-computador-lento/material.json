@@ -1,0 +1,20 @@
+{
+  "filename": "guia-computador-lento.pdf",
+  "title": "Diagnosticar computador lento antes de gastar com outro",
+  "intro": "Material de @glauber.moraes.mkt. Problema: Diagnosticar computador lento antes de gastar com outro.",
+  "sections": [
+    {
+      "heading": "PEDIDO PARA COPIAR E ADAPTAR",
+      "text": "Meu computador fica lento quando [situação]. Uso [sistema] e estes programas: [lista]. Vou enviar capturas do uso de memória e processamento. Organize hipóteses por probabilidade, explique cada uma sem jargão e proponha apenas testes reversíveis, um de cada vez. Não mande apagar arquivos, desativar segurança ou desinstalar programas sem me explicar os riscos e pedir confirmação."
+    },
+    {
+      "heading": "COMO TESTAR",
+      "text": "Substitua os trechos entre colchetes pelas informações reais. Faça uma primeira tarefa pequena, confira o resultado e corrija as suposições da IA antes de produzir ou publicar em volume."
+    },
+    {
+      "heading": "O QUE CONFERIR",
+      "text": "Verifique fatos, preços, promessa, qualidade visual e funcionamento. Guarde a versão aprovada e repita a revisão quando mudar a oferta ou o processo."
+    }
+  ],
+  "outro": "Mais materiais: https://github.com/glauberdemoraes/modelos-marketing"
+}
