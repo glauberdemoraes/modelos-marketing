@@ -1,0 +1,13 @@
+{
+  "filename": "guia-ia-anuncios-controle.pdf",
+  "title": "Ficha de controle da IA para anúncios",
+  "intro": "Cinco decisões antes de permitir que um agente analise ou altere campanhas. Material de @glauber.moraes.mkt.",
+  "sections": [
+    {"heading": "01 / DIAGNÓSTICO", "text": "Descreva conta, período, objetivo e pergunta. Peça que a IA mostre de onde cada número veio e o que ela não consegue confirmar. Comece com acesso de leitura."},
+    {"heading": "02 / DADOS", "text": "Anote separadamente investimento, alcance, leads de formulário, conversas e vendas. Defina janela e fonte de cada métrica. Não transforme eventos diferentes em uma conversão só."},
+    {"heading": "03 / LIMITE", "text": "Escreva operações permitidas e proibidas. Exemplo: pode sugerir mudanças; não pode publicar, pausar ou alterar orçamento sem autorização humana específica."},
+    {"heading": "04 / REVISÃO", "text": "Para cada proposta, exija: motivo, evidência, alteração exata, impacto esperado e plano de reversão. Aprove uma mudança por vez."},
+    {"heading": "05 / PROVA", "text": "Confira o histórico na plataforma, o estado da campanha e as métricas depois da alteração. Registre o resultado com data e evite atribuir causalidade sem comparação adequada."}
+  ],
+  "outro": "Mini instruções: copie as cinco perguntas para um documento, preencha com sua conta e faça o primeiro teste apenas com leitura. Repositório de materiais: https://github.com/glauberdemoraes/modelos-marketing"
+}
