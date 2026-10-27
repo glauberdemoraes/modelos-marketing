@@ -76,3 +76,8 @@ O [guia em PDF](13-agentes-no-celular/repositorio-agentes-no-celular.pdf) revela
 
 O [guia em PDF](14-mapa-codigo/repositorio-mapa-codigo.pdf) revela o repositório e explica a instalação no Windows, incluindo a grafia exata do pacote.
 
+
+## 15. Auditoria de segurança
+
+O [guia em PDF](15-auditoria-seguranca/repositorio-auditoria-seguranca.pdf) revela a skill, mostra a instalação e explica as classes dos achados.
+

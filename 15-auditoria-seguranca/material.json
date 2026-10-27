@@ -1,0 +1,12 @@
+{
+  "filename": "repositorio-auditoria-seguranca.pdf",
+  "title": "Repositório da semana: auditoria de segurança",
+  "intro": "A skill security-audit, publicada pela Cloudflare, estrutura auditorias de código em fases e registra o que foi confirmado, o que precisa de validação e o que foi rejeitado. Não garante ausência de falhas.",
+  "sections": [
+    {"heading": "Repositório oficial", "text": "https://github.com/cloudflare/security-audit-skill"},
+    {"heading": "Instalação para Claude Code", "text": "Tenha Node.js e npx disponíveis. No terminal, dentro do seu projeto, execute: npx skills add https://github.com/cloudflare/security-audit-skill --skill security-audit. Se a CLI perguntar o agente, escolha Claude Code. Para instalar no perfil do usuário, acrescente --global."},
+    {"heading": "Primeiro uso", "text": "Abra o projeto no Claude Code e peça: security audit this codebase. A skill mapeia arquitetura e superfícies, registra cobertura, testa hipóteses e submete achados a verificação independente."},
+    {"heading": "Como ler o resultado", "text": "Confirmed: evidência rastreável e resultado observado. Needs validation: fato ainda não resolvido. Rejected: hipótese refutada. Revise as provas antes de priorizar correções; testes e revisão profissional continuam necessários."}
+  ],
+  "outro": "Mini instrução: leia README e SKILL.md do repositório, instale a skill, rode em um projeto que você controla e confira a evidência de cada achado."
+}
