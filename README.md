@@ -71,3 +71,8 @@ A [matriz em PDF](12-matriz-multicanal-claude/matriz-multicanal-claude.pdf) incl
 
 O [guia em PDF](13-agentes-no-celular/repositorio-agentes-no-celular.pdf) revela o repositório selecionado da lista semanal do GitHub e explica a instalação no Windows.
 
+
+## 14. Mapa do código
+
+O [guia em PDF](14-mapa-codigo/repositorio-mapa-codigo.pdf) revela o repositório e explica a instalação no Windows, incluindo a grafia exata do pacote.
+

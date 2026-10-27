@@ -1,0 +1,12 @@
+{
+  "filename": "repositorio-mapa-codigo.pdf",
+  "title": "Repositório da semana: mapa do código",
+  "intro": "O projeto é Graphify. Ele cria um grafo consultável da base de código, documentos e configurações. A análise é local; revise os resultados no seu projeto antes de agir.",
+  "sections": [
+    {"heading": "Repositório oficial", "text": "https://github.com/Graphify-Labs/graphify"},
+    {"heading": "Pré-requisitos no Windows", "text": "Python 3.10 ou superior. Instale uv com winget install astral-sh.uv e abra um terminal novo. Confira python --version e uv --version."},
+    {"heading": "Instalação", "text": "Execute uv tool install graphifyy (o pacote oficial tem dois y). Depois execute graphify install. O instalador registra a skill no agente detectado. No Claude Code, abra a pasta do projeto e digite o comando /graphify seguido de um espaço e um ponto."},
+    {"heading": "Primeiro teste", "text": "Pergunte quais arquivos chamam uma função importante e confira as arestas e referências de origem. Antes de editar, peça uma lista dos pontos afetados. O grafo ajuda a navegar; não substitui a leitura do código nem os testes."}
+  ],
+  "outro": "Mini instrução: confira os pré-requisitos, instale o pacote de grafia exata, registre a skill e teste em uma base pequena. Comandos e detalhes atualizados estão no README oficial."
+}
