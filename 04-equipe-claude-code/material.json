@@ -1,0 +1,13 @@
+{
+  "filename": "3-skills-claude-code.pdf",
+  "title": "Sua primeira equipe no Claude Code",
+  "intro": "Três skills simples para transformar uma pauta em carrossel revisado. Skills não substituem pessoas ou verificação; são instruções reutilizáveis. Os arquivos de exemplo estão nesta pasta do repositório.",
+  "sections": [
+    {"heading": "1. Planejar", "text": "Entrada: tema, público, oferta, fontes e objetivo. Saída: pauta.md com problema específico, promessa do post, fatos que precisam de prova e CTA. Critério de pronto: uma pessoa entende por que leria o post."},
+    {"heading": "2. Escrever", "text": "Entrada: pauta aprovada e exemplos reais. Saída: carrossel.md com capa de até seis palavras, segundo card autônomo, desenvolvimento com exemplos, resumo e CTA único. Marque qualquer dado sem fonte para revisão."},
+    {"heading": "3. Revisar", "text": "Entrada: pauta.md, carrossel.md e fontes. Saída: revisao.md com cada fato conferido, texto que parece cópia, promessa exagerada e correções necessárias. A aprovação final continua humana."},
+    {"heading": "Como instalar", "text": "Copie cada pasta de exemplo para .claude/skills/ dentro do seu projeto. O arquivo deve se chamar SKILL.md. No Claude Code, você pode invocar /planejar-conteudo, /escrever-carrossel e /revisar-carrossel. Ajuste os caminhos e campos para o seu negócio."},
+    {"heading": "Regra que evita bagunça", "text": "Cada skill deve declarar quando usar, que entrada exige, qual arquivo produz e como saber que terminou. Passe o resultado de uma etapa para a seguinte. Se faltar fonte ou decisão, peça a informação em vez de inventar."}
+  ],
+  "outro": "Mini teste: escolha um tema e execute as três skills. Verifique o arquivo final, corrija as falhas e só então publique."
+}

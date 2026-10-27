@@ -24,3 +24,7 @@ Separe sua bio, cinco posts seus e três marcas de referência. Forneça esse ma
 ## 03. Projeto no Claude para criar carrosséis
 
 O [modelo em PDF](03-projeto-claude/projeto-claude-carrosseis.pdf) inclui a instrução do Projeto, um pedido de seis cards e uma lista de revisão antes de publicar. O [arquivo fonte](03-projeto-claude/material.json) permite adaptar o texto.
+
+## 04. Sua primeira equipe no Claude Code
+
+O [guia em PDF](04-equipe-claude-code/3-skills-claude-code.pdf) organiza planejamento, escrita e revisão. A mesma pasta contém três exemplos de `SKILL.md` para copiar e adaptar ao seu projeto.
