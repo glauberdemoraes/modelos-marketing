@@ -1,0 +1,28 @@
+{
+  "filename": "guia-animacao-em-volume.pdf",
+  "title": "Produzir variações de animações repetitivas",
+  "intro": "Material de @glauber.moraes.mkt. Problema: Produzir variações de animações repetitivas.",
+  "sections": [
+    {
+      "heading": "01 / FERRAMENTA OFICIAL",
+      "text": "Link do projeto: https://github.com/remotion-dev/remotion. Leia as instruções de instalação e confira os requisitos antes de usar. O nome foi guardado no carrossel para entregar o caminho certo aqui."
+    },
+    {
+      "heading": "LICENÇA PARA USO COMERCIAL",
+      "text": "Leia a licença oficial em https://www.remotion.dev/docs/license antes de usar em uma empresa ou serviço para clientes. O direito de uso depende do seu caso; não presuma que todo uso comercial é gratuito."
+    },
+    {
+      "heading": "PEDIDO PARA COPIAR E ADAPTAR",
+      "text": "Quero um vídeo vertical reutilizável para [produto]. Estruture no Remotion uma peça de [duração] segundos em que mudem apenas [texto, preço, foto]. Primeiro faça uma versão de exemplo com dados fictícios. Mostre como trocar os dados, renderize um arquivo de teste e peça minha aprovação de ritmo, leitura e imagem antes de criar variações."
+    },
+    {
+      "heading": "COMO TESTAR",
+      "text": "Substitua os trechos entre colchetes pelas informações reais. Faça uma primeira tarefa pequena, confira o resultado e corrija as suposições da IA antes de produzir ou publicar em volume."
+    },
+    {
+      "heading": "O QUE CONFERIR",
+      "text": "Verifique fatos, preços, promessa, qualidade visual e funcionamento. Guarde a versão aprovada e repita a revisão quando mudar a oferta ou o processo."
+    }
+  ],
+  "outro": "Mais materiais: https://github.com/glauberdemoraes/modelos-marketing"
+}
