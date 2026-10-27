@@ -1,0 +1,13 @@
+{
+  "filename": "repositorio-agentes-worktrees.pdf",
+  "title": "Repositório da semana: agentes em espaços separados",
+  "intro": "Este material apresenta o Orca, um aplicativo aberto para acompanhar agentes de programação como Claude Code e Codex em tarefas separadas. O projeto oferece versões para Windows, macOS e Linux. Confira os requisitos e a versão atual na página oficial antes de instalar.",
+  "sections": [
+    {"heading": "Repositório", "text": "https://github.com/stablyai/orca"},
+    {"heading": "Instalação na máquina", "text": "Abra o README do repositório e siga Download Orca. Escolha o instalador do seu sistema: Windows (.exe), macOS ou Linux (AppImage). Instale e abra o aplicativo. No Claude Code, você pode pedir: leia o README deste repositório, identifique o instalador correto para meu sistema e me mostre o plano antes de baixar ou executar qualquer arquivo. O repositório também aponta para o site oficial orca.dev."},
+    {"heading": "Primeiro teste com Claude Code ou Codex", "text": "Abra um projeto Git pequeno no aplicativo. Crie uma tarefa simples para um agente, como corrigir um teste. Abra uma segunda tarefa em espaço de trabalho separado. Acompanhe as duas sessões e compare os diffs antes de integrar qualquer alteração."},
+    {"heading": "Acompanhamento pelo celular", "text": "O projeto documenta um companion móvel para monitorar agentes e enviar instruções. Configure o pareamento seguindo a documentação oficial. Faça o primeiro teste na mesma rede e revise permissões antes de deixar uma máquina acessível remotamente."},
+    {"heading": "O que conferir antes de usar em trabalho real", "text": "Confirme a origem do instalador, os acessos pedidos pelo agente e o diff de cada tarefa. Espaços de trabalho separados ajudam a organizar as alterações, mas não substituem revisão, testes nem decisão humana de integrar."}
+  ],
+  "outro": "Mini instrução: abra o repositório, baixe o instalador do seu sistema, rode duas tarefas pequenas em espaços separados e compare os resultados antes de integrar."
+}
