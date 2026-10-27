@@ -32,3 +32,7 @@ O [guia em PDF](04-equipe-claude-code/3-skills-claude-code.pdf) organiza planeja
 ## 05. Fluxo de conteúdo com Claude
 
 O [checklist em PDF](05-fluxo-claude/checklist-fluxo-claude.pdf) acompanha brief, roteiro, direção visual, produção e revisão até a publicação.
+
+## 06. Aprender com um post de alto alcance
+
+A [ficha em PDF](06-analisar-viral/ficha-analisar-post.pdf) separa métricas, hipótese, variação de conteúdo e comparação posterior.

@@ -1,0 +1,13 @@
+{
+  "filename": "ficha-analisar-post.pdf",
+  "title": "Ficha para aprender com um post",
+  "intro": "Um post de alto alcance é uma pista, não uma fórmula. Preencha com dados reais da sua conta antes de pedir ao Claude hipóteses e variações.",
+  "sections": [
+    {"heading": "1. Registre o contexto", "text": "Post e data: [ ]. Público a quem foi mostrado: [ ]. Formato e duração: [ ]. Alcance: [ ]. Visitas ao perfil: [ ]. Conversas ou cliques relevantes: [ ]. Vendas atribuíveis com evidência: [ ]. Não substitua campo ausente por palpite."},
+    {"heading": "2. Desmonte o conteúdo", "text": "Primeira promessa: [ ]. Exemplo que sustenta a promessa: [ ]. Momento que muda a atenção: [ ]. CTA: [ ]. Comentários que mostram o que o público entendeu: [ ]."},
+    {"heading": "3. Peça hipóteses ao Claude", "text": "Prompt: Analise os dados e a transcrição fornecidos. Separe observação de hipótese. Liste três possíveis motivos para o desempenho, apontando a evidência e uma explicação alternativa para cada um. Não atribua causalidade a um único post."},
+    {"heading": "4. Planeje uma variação", "text": "Mantenha [ideia central] e altere apenas [público, exemplo ou visual]. Escreva um novo hook e um roteiro original. Diga o que mudou e o que permaneceu igual. Não copie frases ou cenas de outra pessoa."},
+    {"heading": "5. Compare depois", "text": "Use uma janela de tempo comparável e registre alcance, visitas, conversas e vendas separadamente. Anote diferenças de distribuição paga, horário e formato. Repita com mais posts antes de chamar o resultado de padrão."}
+  ],
+  "outro": "Mini instrução: comece por um post seu, não por um post alheio. Use dados de terceiros apenas como referência de estrutura quando não houver acesso às métricas internas."
+}
