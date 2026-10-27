@@ -56,3 +56,8 @@ O [mapa em PDF](09-seis-funcoes-claude/mapa-seis-funcoes-claude.pdf) traz um pro
 
 O [roteiro em PDF](10-auditoria-perfil-claude/roteiro-auditoria-perfil-claude.pdf) traz os campos a reunir, prompts de diagnóstico e melhoria, e uma checagem de resultados.
 
+
+## 11. Briefing de vídeo com Claude Code
+
+O [briefing em PDF](11-edicao-video-claude-code/briefing-video-claude-code.pdf) contém um prompt copiável e a lista de revisão do render.
+

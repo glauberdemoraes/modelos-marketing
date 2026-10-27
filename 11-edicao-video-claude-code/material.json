@@ -1,0 +1,12 @@
+{
+  "filename": "briefing-video-claude-code.pdf",
+  "title": "Briefing de edição com Claude Code",
+  "intro": "Claude Code pode ajudar a planejar e escrever comandos de edição. O arquivo final precisa de execução e revisão. Trabalhe em uma cópia do vídeo original.",
+  "sections": [
+    {"heading": "Antes do prompt", "text": "Separe vídeo bruto, duração desejada, proporção 9:16, público, objetivo, mensagem central, trechos obrigatórios, trechos proibidos, estilo das legendas e pasta de saída. Confirme que você tem direito de usar imagem e áudio."},
+    {"heading": "Prompt copiável", "text": "Você é meu assistente de edição. Leia apenas os arquivos desta pasta. Não altere o original. Primeiro apresente um plano com cortes e justificativa. Depois proponha comandos reproduzíveis com FFmpeg para gerar uma cópia 1080x1920. Não execute nada sem eu revisar o plano. Evite inventar fala ou inserir fatos novos. Liste dependências e arquivos de saída."},
+    {"heading": "Após aprovar o plano", "text": "Rode os comandos em uma cópia. Confira duração, resolução, sincronia do áudio, trechos cortados, legibilidade das legendas, volume e começo/fim. Assista ao vídeo inteiro antes de publicar."},
+    {"heading": "Se o resultado estiver ruim", "text": "Diga qual segundo falhou, o que deveria acontecer e peça uma mudança por vez. Compare novo render com o anterior. Preserve o bruto e a versão aprovada."}
+  ],
+  "outro": "Mini instrução: copie o prompt, preencha o briefing, revise o plano, execute em cópia e assista ao render final."
+}
