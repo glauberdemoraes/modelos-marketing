@@ -1,0 +1,28 @@
+{
+  "filename": "guia-animacao-claude.pdf",
+  "title": "A animação da ia parece morta",
+  "intro": "5 decisões que dão movimento de verdade. Material de @glauber.moraes.mkt. Use os exemplos como ponto de partida; verifique fatos, permiss?es e resultados no seu contexto.",
+  "sections": [
+    {
+      "heading": "01 / PROPÓSITO",
+      "text": "Antes de animar, defina o que o movimento explica. Um efeito sem função só atrasa a interface. Prompt: Analise este caso para propósito. Primeiro explique o problema com evid?ncias, depois proponha a menor melhoria poss?vel e diga como eu posso verificar se funcionou. Dados do meu caso: [cole aqui, sem informa??es sens?veis]."
+    },
+    {
+      "heading": "02 / TEMPO",
+      "text": "Estabeleça duração e pausa. Tudo na mesma velocidade parece uma apresentação automática. Prompt: Analise este caso para tempo. Primeiro explique o problema com evid?ncias, depois proponha a menor melhoria poss?vel e diga como eu posso verificar se funcionou. Dados do meu caso: [cole aqui, sem informa??es sens?veis]."
+    },
+    {
+      "heading": "03 / ACELERAÇÃO",
+      "text": "Movimentos lineares parecem mecânicos. Peça curvas coerentes com entrada, saída e resposta ao toque. Prompt: Analise este caso para aceleração. Primeiro explique o problema com evid?ncias, depois proponha a menor melhoria poss?vel e diga como eu posso verificar se funcionou. Dados do meu caso: [cole aqui, sem informa??es sens?veis]."
+    },
+    {
+      "heading": "04 / CONTINUIDADE",
+      "text": "Um elemento precisa nascer de algum lugar e levar o olhar ao próximo. Saltos gratuitos quebram a leitura. Prompt: Analise este caso para continuidade. Primeiro explique o problema com evid?ncias, depois proponha a menor melhoria poss?vel e diga como eu posso verificar se funcionou. Dados do meu caso: [cole aqui, sem informa??es sens?veis]."
+    },
+    {
+      "heading": "05 / ACESSIBILIDADE",
+      "text": "Respeite preferência por menos movimento e teste no aparelho real. Um efeito bonito não vale desconforto. Prompt: Analise este caso para acessibilidade. Primeiro explique o problema com evid?ncias, depois proponha a menor melhoria poss?vel e diga como eu posso verificar se funcionou. Dados do meu caso: [cole aqui, sem informa??es sens?veis]."
+    }
+  ],
+  "outro": "Mini instru??es: escolha um item, preencha o campo entre colchetes com um caso real, pe?a uma proposta ao Claude ou Codex, revise a sa?da e teste em escala pequena. Os links e modelos adicionais ficam no reposit?rio indicado abaixo."
+}

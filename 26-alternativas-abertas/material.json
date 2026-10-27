@@ -1,0 +1,28 @@
+{
+  "filename": "guia-alternativas-abertas.pdf",
+  "title": "Sua assinatura tem um plano b",
+  "intro": "5 projetos abertos para testar antes de renovar. Material de @glauber.moraes.mkt. Use os exemplos como ponto de partida; verifique fatos, permiss?es e resultados no seu contexto.",
+  "sections": [
+    {
+      "heading": "01 / DESIGN",
+      "text": "Existe editor visual aberto para desenhar interfaces e colaborar. Compare seus recursos reais antes de migrar arquivos. Origem oficial: https://github.com/penpot/penpot. Primeiro teste: abra a documenta??o do projeto, confira licen?a, requisitos, hospedagem e exporta??o; pe?a ao Claude Code um plano de instala??o antes de executar qualquer comando."
+    },
+    {
+      "heading": "02 / DOCUMENTOS",
+      "text": "Um workspace aberto pode reunir notas, tarefas e base de conhecimento. Teste importação e exportação primeiro. Origem oficial: https://github.com/AppFlowy-IO/AppFlowy. Primeiro teste: abra a documenta??o do projeto, confira licen?a, requisitos, hospedagem e exporta??o; pe?a ao Claude Code um plano de instala??o antes de executar qualquer comando."
+    },
+    {
+      "heading": "03 / CRM",
+      "text": "Seu funil não precisa nascer preso a uma plataforma. Verifique contatos, permissões e integração antes de trocar. Origem oficial: https://github.com/twentyhq/twenty. Primeiro teste: abra a documenta??o do projeto, confira licen?a, requisitos, hospedagem e exporta??o; pe?a ao Claude Code um plano de instala??o antes de executar qualquer comando."
+    },
+    {
+      "heading": "04 / SUPORTE",
+      "text": "Caixa de atendimento aberta existe. O custo muda para hospedagem, manutenção e operação da equipe. Origem oficial: https://github.com/chatwoot/chatwoot. Primeiro teste: abra a documenta??o do projeto, confira licen?a, requisitos, hospedagem e exporta??o; pe?a ao Claude Code um plano de instala??o antes de executar qualquer comando."
+    },
+    {
+      "heading": "05 / AUTOMAÇÃO",
+      "text": "Um fluxo visual aberto conecta sistemas. Comece com um processo pequeno e registre o que falha. Origem oficial: https://github.com/activepieces/activepieces. Primeiro teste: abra a documenta??o do projeto, confira licen?a, requisitos, hospedagem e exporta??o; pe?a ao Claude Code um plano de instala??o antes de executar qualquer comando."
+    }
+  ],
+  "outro": "Mini instru??es: escolha um item, preencha o campo entre colchetes com um caso real, pe?a uma proposta ao Claude ou Codex, revise a sa?da e teste em escala pequena. Os links e modelos adicionais ficam no reposit?rio indicado abaixo."
+}

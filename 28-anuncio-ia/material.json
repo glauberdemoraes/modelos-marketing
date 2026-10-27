@@ -1,0 +1,28 @@
+{
+  "filename": "guia-anuncio-ia.pdf",
+  "title": "Seu anúncio grita: feito por ia",
+  "intro": "5 defeitos que afastam o clique. Material de @glauber.moraes.mkt. Use os exemplos como ponto de partida; verifique fatos, permiss?es e resultados no seu contexto.",
+  "sections": [
+    {
+      "heading": "01 / PRODUTO FALSO",
+      "text": "Se a imagem inventa detalhes do produto, o anúncio promete o que você não vende. Use fotos reais como base. Prompt: Analise este caso para produto falso. Primeiro explique o problema com evid?ncias, depois proponha a menor melhoria poss?vel e diga como eu posso verificar se funcionou. Dados do meu caso: [cole aqui, sem informa??es sens?veis]."
+    },
+    {
+      "heading": "02 / MARCA SUMIDA",
+      "text": "Sem cores, oferta e linguagem da empresa, a peça parece genérica. Entregue um briefing com exemplos concretos. Prompt: Analise este caso para marca sumida. Primeiro explique o problema com evid?ncias, depois proponha a menor melhoria poss?vel e diga como eu posso verificar se funcionou. Dados do meu caso: [cole aqui, sem informa??es sens?veis]."
+    },
+    {
+      "heading": "03 / TEXTO DEMAIS",
+      "text": "Uma arte que exige leitura longa perde a primeira disputa pela atenção. Escolha uma promessa verificável. Prompt: Analise este caso para texto demais. Primeiro explique o problema com evid?ncias, depois proponha a menor melhoria poss?vel e diga como eu posso verificar se funcionou. Dados do meu caso: [cole aqui, sem informa??es sens?veis]."
+    },
+    {
+      "heading": "04 / HIERARQUIA RUIM",
+      "text": "Preço, benefício e ação precisam de ordem. Faça o agente gerar versões e teste leitura em tela pequena. Prompt: Analise este caso para hierarquia ruim. Primeiro explique o problema com evid?ncias, depois proponha a menor melhoria poss?vel e diga como eu posso verificar se funcionou. Dados do meu caso: [cole aqui, sem informa??es sens?veis]."
+    },
+    {
+      "heading": "05 / PROVA AUSENTE",
+      "text": "O criativo pode ser bonito e vazio. Mostre o produto real, a condição da oferta e um motivo para acreditar. Prompt: Analise este caso para prova ausente. Primeiro explique o problema com evid?ncias, depois proponha a menor melhoria poss?vel e diga como eu posso verificar se funcionou. Dados do meu caso: [cole aqui, sem informa??es sens?veis]."
+    }
+  ],
+  "outro": "Mini instru??es: escolha um item, preencha o campo entre colchetes com um caso real, pe?a uma proposta ao Claude ou Codex, revise a sa?da e teste em escala pequena. Os links e modelos adicionais ficam no reposit?rio indicado abaixo."
+}

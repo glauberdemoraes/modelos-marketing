@@ -1,0 +1,28 @@
+{
+  "filename": "guia-ia-trabalho.pdf",
+  "title": "Seu cargo não é uma tarefa",
+  "intro": "5 partes do trabalho que a IA muda em velocidades diferentes. Material de @glauber.moraes.mkt. Use os exemplos como ponto de partida; verifique fatos, permiss?es e resultados no seu contexto.",
+  "sections": [
+    {
+      "heading": "01 / PESQUISA",
+      "text": "A IA reúne material rápido. O risco está nas fontes erradas e nas lacunas que parecem uma resposta completa. Prompt: Analise este caso para pesquisa. Primeiro explique o problema com evid?ncias, depois proponha a menor melhoria poss?vel e diga como eu posso verificar se funcionou. Dados do meu caso: [cole aqui, sem informa??es sens?veis]."
+    },
+    {
+      "heading": "02 / PRIMEIRO RASCUNHO",
+      "text": "Ela acelera um começo, mas não conhece o que seu cliente realmente aprovaria. Briefing e revisão seguem humanos. Prompt: Analise este caso para primeiro rascunho. Primeiro explique o problema com evid?ncias, depois proponha a menor melhoria poss?vel e diga como eu posso verificar se funcionou. Dados do meu caso: [cole aqui, sem informa??es sens?veis]."
+    },
+    {
+      "heading": "03 / EXECUÇÃO REPETIDA",
+      "text": "Rotinas padronizadas são boas candidatas à automação. Meça erros e mantenha um caminho de reversão. Prompt: Analise este caso para execução repetida. Primeiro explique o problema com evid?ncias, depois proponha a menor melhoria poss?vel e diga como eu posso verificar se funcionou. Dados do meu caso: [cole aqui, sem informa??es sens?veis]."
+    },
+    {
+      "heading": "04 / RELAÇÃO",
+      "text": "Confiança, negociação e leitura do contexto não cabem num prompt. O profissional assume a conversa e a responsabilidade. Prompt: Analise este caso para relação. Primeiro explique o problema com evid?ncias, depois proponha a menor melhoria poss?vel e diga como eu posso verificar se funcionou. Dados do meu caso: [cole aqui, sem informa??es sens?veis]."
+    },
+    {
+      "heading": "05 / DECISÃO",
+      "text": "Um relatório pode sugerir opções. Quem conhece os limites legais, financeiros e humanos precisa decidir. Prompt: Analise este caso para decisão. Primeiro explique o problema com evid?ncias, depois proponha a menor melhoria poss?vel e diga como eu posso verificar se funcionou. Dados do meu caso: [cole aqui, sem informa??es sens?veis]."
+    }
+  ],
+  "outro": "Mini instru??es: escolha um item, preencha o campo entre colchetes com um caso real, pe?a uma proposta ao Claude ou Codex, revise a sa?da e teste em escala pequena. Os links e modelos adicionais ficam no reposit?rio indicado abaixo."
+}

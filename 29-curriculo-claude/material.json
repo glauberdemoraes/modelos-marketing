@@ -1,0 +1,28 @@
+{
+  "filename": "guia-curriculo-claude.pdf",
+  "title": "Seu currículo esconde o melhor",
+  "intro": "5 revisões com Claude antes de enviar. Material de @glauber.moraes.mkt. Use os exemplos como ponto de partida; verifique fatos, permiss?es e resultados no seu contexto.",
+  "sections": [
+    {
+      "heading": "01 / VAGA",
+      "text": "Cole a descrição da vaga e peça requisitos explícitos. Não invente experiência que o currículo não comprova. Prompt: Analise este caso para vaga. Primeiro explique o problema com evid?ncias, depois proponha a menor melhoria poss?vel e diga como eu posso verificar se funcionou. Dados do meu caso: [cole aqui, sem informa??es sens?veis]."
+    },
+    {
+      "heading": "02 / RESULTADOS",
+      "text": "Troque tarefas vagas por entregas concretas. Use números apenas se puder demonstrá-los numa entrevista. Prompt: Analise este caso para resultados. Primeiro explique o problema com evid?ncias, depois proponha a menor melhoria poss?vel e diga como eu posso verificar se funcionou. Dados do meu caso: [cole aqui, sem informa??es sens?veis]."
+    },
+    {
+      "heading": "03 / CLAREZA",
+      "text": "Peça frases curtas e verbos precisos. Retire jargão que não ajuda o recrutador a entender seu trabalho. Prompt: Analise este caso para clareza. Primeiro explique o problema com evid?ncias, depois proponha a menor melhoria poss?vel e diga como eu posso verificar se funcionou. Dados do meu caso: [cole aqui, sem informa??es sens?veis]."
+    },
+    {
+      "heading": "04 / LACUNAS",
+      "text": "Pergunte o que a vaga exige e não aparece no documento. Se houver experiência real, acrescente; se não, não finja. Prompt: Analise este caso para lacunas. Primeiro explique o problema com evid?ncias, depois proponha a menor melhoria poss?vel e diga como eu posso verificar se funcionou. Dados do meu caso: [cole aqui, sem informa??es sens?veis]."
+    },
+    {
+      "heading": "05 / LEITURA FINAL",
+      "text": "Faça o agente marcar contradições, datas e trechos ambíguos. Depois leia você mesmo cada linha. Prompt: Analise este caso para leitura final. Primeiro explique o problema com evid?ncias, depois proponha a menor melhoria poss?vel e diga como eu posso verificar se funcionou. Dados do meu caso: [cole aqui, sem informa??es sens?veis]."
+    }
+  ],
+  "outro": "Mini instru??es: escolha um item, preencha o campo entre colchetes com um caso real, pe?a uma proposta ao Claude ou Codex, revise a sa?da e teste em escala pequena. Os links e modelos adicionais ficam no reposit?rio indicado abaixo."
+}

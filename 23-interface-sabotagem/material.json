@@ -1,0 +1,28 @@
+{
+  "filename": "guia-interface-sabotagem.pdf",
+  "title": "Seu site sabota vendas",
+  "intro": "5 erros de interface que o Claude pode apontar antes do cliente fugir. Material de @glauber.moraes.mkt. Use os exemplos como ponto de partida; verifique fatos, permiss?es e resultados no seu contexto.",
+  "sections": [
+    {
+      "heading": "01 / O BOTÃO INVISÍVEL",
+      "text": "Se a ação principal se mistura ao fundo, o visitante precisa caçá-la. Peça ao Claude um mapa de contraste e prioridade visual. Prompt: Analise este caso para o botão invisível. Primeiro explique o problema com evid?ncias, depois proponha a menor melhoria poss?vel e diga como eu posso verificar se funcionou. Dados do meu caso: [cole aqui, sem informa??es sens?veis]."
+    },
+    {
+      "heading": "02 / O FORMULÁRIO CASTIGO",
+      "text": "Cada campo desnecessário cobra atenção. Mostre o formulário ao agente e peça uma versão mínima, sem perder o dado essencial. Prompt: Analise este caso para o formulário castigo. Primeiro explique o problema com evid?ncias, depois proponha a menor melhoria poss?vel e diga como eu posso verificar se funcionou. Dados do meu caso: [cole aqui, sem informa??es sens?veis]."
+    },
+    {
+      "heading": "03 / O MENU LABIRINTO",
+      "text": "Se uma pessoa não acha preço ou contato em segundos, a navegação falhou. Faça o agente testar três tarefas reais. Prompt: Analise este caso para o menu labirinto. Primeiro explique o problema com evid?ncias, depois proponha a menor melhoria poss?vel e diga como eu posso verificar se funcionou. Dados do meu caso: [cole aqui, sem informa??es sens?veis]."
+    },
+    {
+      "heading": "04 / A TELA QUE PULA",
+      "text": "Elementos que mudam de lugar durante o carregamento fazem o toque errar. Peça uma inspeção visual e valide no celular. Prompt: Analise este caso para a tela que pula. Primeiro explique o problema com evid?ncias, depois proponha a menor melhoria poss?vel e diga como eu posso verificar se funcionou. Dados do meu caso: [cole aqui, sem informa??es sens?veis]."
+    },
+    {
+      "heading": "05 / O ERRO SEM SAÍDA",
+      "text": "Uma mensagem vaga deixa o usuário preso. Escreva uma instrução clara: o que houve, o que fazer e como pedir ajuda. Prompt: Analise este caso para o erro sem saída. Primeiro explique o problema com evid?ncias, depois proponha a menor melhoria poss?vel e diga como eu posso verificar se funcionou. Dados do meu caso: [cole aqui, sem informa??es sens?veis]."
+    }
+  ],
+  "outro": "Mini instru??es: escolha um item, preencha o campo entre colchetes com um caso real, pe?a uma proposta ao Claude ou Codex, revise a sa?da e teste em escala pequena. Os links e modelos adicionais ficam no reposit?rio indicado abaixo."
+}

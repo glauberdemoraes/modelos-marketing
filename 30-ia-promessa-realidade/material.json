@@ -1,0 +1,28 @@
+{
+  "filename": "guia-ia-promessa-realidade.pdf",
+  "title": "A demo da ia mente por omissão",
+  "intro": "5 testes antes de pagar outra ferramenta. Material de @glauber.moraes.mkt. Use os exemplos como ponto de partida; verifique fatos, permiss?es e resultados no seu contexto.",
+  "sections": [
+    {
+      "heading": "01 / SEU ARQUIVO",
+      "text": "Teste com um arquivo real do seu trabalho, sem dados sensíveis. A demo preparada pelo vendedor esconde exceções. Prompt: Analise este caso para seu arquivo. Primeiro explique o problema com evid?ncias, depois proponha a menor melhoria poss?vel e diga como eu posso verificar se funcionou. Dados do meu caso: [cole aqui, sem informa??es sens?veis]."
+    },
+    {
+      "heading": "02 / CASO DIFÍCIL",
+      "text": "Inclua um exemplo com ambiguidade. Veja se a ferramenta reconhece limites ou inventa segurança. Prompt: Analise este caso para caso difícil. Primeiro explique o problema com evid?ncias, depois proponha a menor melhoria poss?vel e diga como eu posso verificar se funcionou. Dados do meu caso: [cole aqui, sem informa??es sens?veis]."
+    },
+    {
+      "heading": "03 / TEMPO TOTAL",
+      "text": "Conte configuração, correção e revisão. Um clique rápido pode gerar uma hora de retrabalho. Prompt: Analise este caso para tempo total. Primeiro explique o problema com evid?ncias, depois proponha a menor melhoria poss?vel e diga como eu posso verificar se funcionou. Dados do meu caso: [cole aqui, sem informa??es sens?veis]."
+    },
+    {
+      "heading": "04 / CUSTO REAL",
+      "text": "Compare plano, limites, créditos e integrações. Preço de entrada não é o custo de uso contínuo. Prompt: Analise este caso para custo real. Primeiro explique o problema com evid?ncias, depois proponha a menor melhoria poss?vel e diga como eu posso verificar se funcionou. Dados do meu caso: [cole aqui, sem informa??es sens?veis]."
+    },
+    {
+      "heading": "05 / SAÍDA",
+      "text": "Descubra como exportar seus dados e interromper o serviço. Sem saída clara, a assinatura vira dependência. Prompt: Analise este caso para saída. Primeiro explique o problema com evid?ncias, depois proponha a menor melhoria poss?vel e diga como eu posso verificar se funcionou. Dados do meu caso: [cole aqui, sem informa??es sens?veis]."
+    }
+  ],
+  "outro": "Mini instru??es: escolha um item, preencha o campo entre colchetes com um caso real, pe?a uma proposta ao Claude ou Codex, revise a sa?da e teste em escala pequena. Os links e modelos adicionais ficam no reposit?rio indicado abaixo."
+}
