@@ -1,0 +1,13 @@
+{
+  "filename": "repositorio-agentes-claude.pdf",
+  "title": "Repositório da semana: funções de agentes no Claude Code",
+  "intro": "O projeto é o Ruflo. Para começar sem configurar o servidor MCP completo, use a instalação básica do plugin para Claude Code. O repositório documenta o caminho leve e o caminho completo separadamente.",
+  "sections": [
+    {"heading": "Repositório", "text": "https://github.com/ruvnet/ruflo"},
+    {"heading": "Pré-requisito", "text": "Tenha o Claude Code instalado e funcionando. Abra o README e a documentação de instalação do Ruflo antes de executar comandos. As instruções do projeto podem mudar com novas versões."},
+    {"heading": "Instalação básica no Claude Code", "text": "Dentro do Claude Code, execute /plugin marketplace add ruvnet/ruflo. Em seguida execute /plugin install ruflo-core@ruflo. Essa opção adiciona comandos e definições de agentes, mas não instala o servidor MCP completo nem todas as funções de memória e coordenação."},
+    {"heading": "Primeiro teste", "text": "Em um projeto de exemplo, peça um plano para corrigir um bug pequeno. Depois solicite implementação e revisão em etapas, com diff e teste como evidência. Confira os comandos disponíveis no plugin instalado; não presuma que recursos de módulos adicionais já estão ativos."},
+    {"heading": "Se precisar do sistema completo", "text": "A documentação também descreve instalação CLI e registro como servidor MCP. Leia os requisitos de Node e npm, escolha uma única forma de conexão e execute o diagnóstico recomendado pelo projeto. Faça isso só quando precisar das ferramentas extras; a configuração muda o ambiente do agente."}
+  ],
+  "outro": "Mini instrução: abra o repositório, confira Installation, adicione o marketplace, instale só o núcleo, teste em um projeto pequeno e revise a saída antes de ativar módulos extras."
+}
