@@ -1,0 +1,12 @@
+{
+  "filename": "repositorio-plugins-trabalho.pdf",
+  "title": "Repositório da semana: plugins por função",
+  "intro": "O projeto oficial da Anthropic é knowledge-work-plugins, uma coleção de 11 plugins para áreas de trabalho. Funciona principalmente no Cowork e também no Claude Code. Comece por um plugin relevante.",
+  "sections": [
+    {"heading": "Repositório oficial", "text": "https://github.com/anthropics/knowledge-work-plugins"},
+    {"heading": "Primeira instalação no Claude Code", "text": "No terminal, execute claude plugin marketplace add anthropics/knowledge-work-plugins. Depois execute claude plugin install marketing@knowledge-work-plugins. A coleção também contém plugins de vendas, suporte, produto, dados e outras funções."},
+    {"heading": "Primeiro teste em marketing", "text": "Abra o Claude Code e peça /campaign-plan com objetivo, público, oferta, canais, orçamento real e métricas disponíveis. Depois use /brand-review para comparar uma peça com seu guia de voz. Se faltar dado, peça que o plugin marque como hipótese."},
+    {"heading": "Personalização", "text": "Skills, comandos e conectores são arquivos do plugin. Revise a configuração antes de ligar serviços externos. Ajuste linguagem, regras da marca e fluxo de aprovação. O plugin estrutura o trabalho; a decisão e a checagem de fatos continuam com você."}
+  ],
+  "outro": "Mini instrução: leia o README da coleção e a pasta marketing, adicione o marketplace, instale um plugin, teste com um briefing real e revise a saída."
+}

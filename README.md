@@ -91,3 +91,8 @@ O [guia em PDF](16-auditoria-seo/repositorio-auditoria-seo.pdf) revela o plugin 
 
 O [guia em PDF](17-memoria-agentes/repositorio-memoria-agentes.pdf) revela o repositório, explica a instalação no Windows e inclui um teste de recuperação de contexto.
 
+
+## 18. Plugins por função
+
+O [guia em PDF](18-plugins-trabalho/repositorio-plugins-trabalho.pdf) revela a coleção oficial e mostra como instalar e testar o plugin de marketing no Claude Code.
+
