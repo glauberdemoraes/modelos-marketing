@@ -1,0 +1,20 @@
+{
+  "filename": "guia-anuncio-queimando-verba.pdf",
+  "title": "Detectar problemas de mensagem antes de pagar tráfego",
+  "intro": "Material de @glauber.moraes.mkt. Problema: Detectar problemas de mensagem antes de pagar tráfego.",
+  "sections": [
+    {
+      "heading": "PEDIDO PARA COPIAR E ADAPTAR",
+      "text": "Revise este anúncio antes de eu gastar dinheiro para divulgá-lo. Público: [quem compra]. Oferta real: [descrição, preço e limites]. Texto: [cole]. Imagem: [descreva ou anexe]. Diga em linguagem simples: o que a pessoa entende nos primeiros segundos, qual benefício aparece, qual prova existe, que dúvida fica aberta e qual promessa não foi comprovada. Depois proponha três versões mais claras sem inventar resultados."
+    },
+    {
+      "heading": "COMO TESTAR",
+      "text": "Substitua os trechos entre colchetes pelas informações reais. Faça uma primeira tarefa pequena, confira o resultado e corrija as suposições da IA antes de produzir ou publicar em volume."
+    },
+    {
+      "heading": "O QUE CONFERIR",
+      "text": "Verifique fatos, preços, promessa, qualidade visual e funcionamento. Guarde a versão aprovada e repita a revisão quando mudar a oferta ou o processo."
+    }
+  ],
+  "outro": "Mais materiais: https://github.com/glauberdemoraes/modelos-marketing"
+}
