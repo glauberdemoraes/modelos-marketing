@@ -61,3 +61,8 @@ O [roteiro em PDF](10-auditoria-perfil-claude/roteiro-auditoria-perfil-claude.pd
 
 O [briefing em PDF](11-edicao-video-claude-code/briefing-video-claude-code.pdf) contém um prompt copiável e a lista de revisão do render.
 
+
+## 12. Uma ideia em cinco formatos
+
+A [matriz em PDF](12-matriz-multicanal-claude/matriz-multicanal-claude.pdf) inclui prompt e revisão para Instagram, LinkedIn, vídeo curto, Stories e email.
+

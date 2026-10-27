@@ -1,0 +1,12 @@
+{
+  "filename": "matriz-multicanal-claude.pdf",
+  "title": "Matriz: uma ideia em cinco formatos",
+  "intro": "Distribuir é adaptar a mesma tese para a leitura de cada canal. Faça versões próprias, revise cada uma e confirme o formato aceito pela plataforma antes de agendar.",
+  "sections": [
+    {"heading": "Sua ideia central", "text": "Tese: [uma frase]. Público: [quem precisa saber]. Prova: [dado, experiência ou exemplo verificável]. Próximo passo: [uma ação]. Sem esses quatro itens, peça esclarecimento antes de adaptar."},
+    {"heading": "Prompt para Claude", "text": "Com base apenas na tese, público e prova abaixo, crie cinco versões: carrossel do Instagram, texto do LinkedIn, roteiro de vídeo curto, sequência de Stories e email curto. Preserve a afirmação central. Adapte abertura, extensão e CTA ao uso de cada canal. Não invente números, depoimentos ou funcionalidades. Marque qualquer lacuna."},
+    {"heading": "Matriz de revisão", "text": "Instagram: capa curta, card 2 autônomo, legibilidade e uma ação. LinkedIn: contexto profissional, parágrafos curtos e fonte. Vídeo: frase de abertura falável, cenas e duração. Stories: sequência rápida e interação útil. Email: assunto honesto, corpo claro e link certo."},
+    {"heading": "Antes de programar", "text": "Confira proporção, limite de texto, thumbnail, link, fonte, fuso horário, repetição de CTA e pessoa responsável. Gere a agenda só depois da aprovação de cada versão."}
+  ],
+  "outro": "Mini instrução: preencha a tese, rode o prompt, revise a matriz e programe cada versão no canal adequado."
+}
