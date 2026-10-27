@@ -1,0 +1,13 @@
+{
+  "filename": "guia-prompts-vagos.pdf",
+  "title": "Cinco trocas para pedidos vagos ao Claude ou Codex",
+  "intro": "Copie o pedido melhorado e preencha os campos entre colchetes com seu caso. Material de @glauber.moraes.mkt.",
+  "sections": [
+    {"heading": "01 / CONTEXTO", "text": "Vago: Me ajuda com isso. Melhor: Meu objetivo é [resultado]. O público é [pessoa]. O cenário atual é [fatos]. Diga o que falta saber antes de propor a solução."},
+    {"heading": "02 / TAREFA", "text": "Vago: Melhora tudo. Melhor: Ajuste somente [parte]. Preserve [restrições]. Mostre uma proposta pequena, o motivo e o que você precisou assumir."},
+    {"heading": "03 / CRITÉRIO", "text": "Vago: Ficou bom? Melhor: Avalie a saída por [critério 1], [critério 2] e [critério 3]. Aponte onde cada um foi atendido e o que ainda falha."},
+    {"heading": "04 / EVIDÊNCIA", "text": "Vago: Confirma que funciona. Melhor: Mostre como testar [resultado]. Cite a fonte de fatos externos e separe o que foi executado do que é apenas uma hipótese."},
+    {"heading": "05 / REVISÃO", "text": "Vago: Faça sozinho. Melhor: Antes de publicar, enviar mensagem, gastar dinheiro ou alterar dados, pare e apresente a mudança exata para revisão humana."}
+  ],
+  "outro": "Mini instruções: escolha uma troca, preencha os colchetes, rode um teste pequeno e compare a resposta com o pedido antigo. Repositório de materiais: https://github.com/glauberdemoraes/modelos-marketing"
+}
