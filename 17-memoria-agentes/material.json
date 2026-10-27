@@ -1,0 +1,12 @@
+{
+  "filename": "repositorio-memoria-agentes.pdf",
+  "title": "Repositório da semana: memória dos agentes",
+  "intro": "O projeto é ai-memory, uma memória local para agentes de programação. Ele pode conectar Claude Code e outros CLIs por hooks e MCP; revise o que será armazenado antes da configuração.",
+  "sections": [
+    {"heading": "Repositório oficial", "text": "https://github.com/akitaonrails/ai-memory"},
+    {"heading": "Instalação no Windows", "text": "O README oferece um instalador PowerShell em https://github.com/akitaonrails/ai-memory/releases/latest/download/install.ps1 . Baixe e leia o script antes de executá-lo. O instalador confere SHA-256 do pacote e instala no perfil do usuário."},
+    {"heading": "Plano antes de aplicar", "text": "Depois da instalação, execute ai-memory setup --plan. Confira os agentes encontrados, pastas, hooks e serviço. Se estiver correto, execute ai-memory setup e selecione os agentes que deseja conectar. Reinicie o Claude Code."},
+    {"heading": "Primeiro teste", "text": "Registre uma decisão não sensível de um projeto de teste. Abra outra sessão e pergunte o que o agente lembra sobre o projeto. Confirme também como apagar ou corrigir memórias no guia oficial. Não armazene segredos nem dados pessoais sem necessidade."}
+  ],
+  "outro": "Mini instrução: leia README e docs/windows.md, revise o instalador, veja o plano, conecte somente os agentes desejados e teste em um projeto sem dados sensíveis."
+}

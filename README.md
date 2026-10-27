@@ -86,3 +86,8 @@ O [guia em PDF](15-auditoria-seguranca/repositorio-auditoria-seguranca.pdf) reve
 
 O [guia em PDF](16-auditoria-seo/repositorio-auditoria-seo.pdf) revela o plugin e mostra instalação, preparação e primeira auditoria no Claude Code.
 
+
+## 17. Memória dos agentes
+
+O [guia em PDF](17-memoria-agentes/repositorio-memoria-agentes.pdf) revela o repositório, explica a instalação no Windows e inclui um teste de recuperação de contexto.
+
