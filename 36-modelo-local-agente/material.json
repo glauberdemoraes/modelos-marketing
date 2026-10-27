@@ -1,0 +1,28 @@
+{
+  "filename": "guia-modelo-local-agente.pdf",
+  "title": "Modelo local no Claude Code ou Codex",
+  "intro": "Link oficial: https://github.com/ollama/ollama. Rodar uma IA no próprio computador não cobra uso do serviço na nuvem, mas exige uma máquina adequada, energia e um teste de qualidade. Material de @glauber.moraes.mkt.",
+  "sections": [
+    {
+      "heading": "01 / INSTALAÇÃO",
+      "text": "Abra https://ollama.com/download e escolha seu sistema operacional. Depois confirme que o comando ollama responde no terminal. Siga a documentação oficial, pois os passos podem mudar."
+    },
+    {
+      "heading": "02 / MODELO",
+      "text": "Escolha um modelo com tamanho que caiba na sua máquina. No catálogo oficial, verifique tamanho e requisitos. Comece com um projeto pequeno e não presuma que todo modelo suporta bem ferramentas ou edição de código."
+    },
+    {
+      "heading": "03 / CONTEXTO",
+      "text": "A documentação recomenda contexto de 64k ou mais para repositórios maiores. Isso consome mais memória; reduza o escopo do teste se a máquina não acompanhar."
+    },
+    {
+      "heading": "04 / INTEGRAÇÃO",
+      "text": "O README oficial mostra o comando ollama launch claude; há também integração para Codex. Veja https://docs.ollama.com/integrations/claude-code e https://docs.ollama.com/integrations/codex. Selecione explicitamente um modelo local."
+    },
+    {
+      "heading": "05 / TESTE",
+      "text": "Peça para explicar um arquivo pequeno e propor uma alteração reversível. Confira exatamente o que mudou, teste se o site continua funcionando e compare tempo e qualidade com seu jeito atual de trabalhar. Não use informações sensíveis no primeiro teste."
+    }
+  ],
+  "outro": "Mini instruções: instale pelo site oficial, escolha uma IA que caiba no computador, faça uma mudança pequena no site e compare tempo e qualidade. Se não servir, mantenha seu fluxo atual. Mais materiais: https://github.com/glauberdemoraes/modelos-marketing"
+}
