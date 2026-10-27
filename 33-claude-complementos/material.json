@@ -1,0 +1,13 @@
+{
+  "filename": "guia-claude-complementos.pdf",
+  "title": "Checklist antes de instalar um complemento no Claude Code",
+  "intro": "Cinco perguntas rápidas para avaliar uma skill, plugin, MCP ou script antes de dar acesso ao seu projeto. Material de @glauber.moraes.mkt.",
+  "sections": [
+    {"heading": "01 / FUNÇÃO", "text": "Que tarefa concreta ele resolve? Escreva uma frase com entrada, saída esperada e por que o Claude Code sozinho não basta. Se não houver resposta, adie a instalação."},
+    {"heading": "02 / FONTE", "text": "Abra o repositório ou site oficial. Confira quem mantém, o README, a licença, as mudanças recentes e as instruções de instalação. Evite copiar comandos de comentários ou vídeos sem conferir a fonte."},
+    {"heading": "03 / PERMISSÕES", "text": "Liste acesso a arquivos, terminal, rede, contas e segredos. Comece com o menor acesso possível. Não cole tokens em prompts, arquivos versionados ou capturas."},
+    {"heading": "04 / TESTE", "text": "Use um projeto descartável. Antes de executar, registre o estado dos arquivos; depois, confira diff, saída e efeitos externos. Um comando que terminou sem erro ainda pode ter alterado algo indevido."},
+    {"heading": "05 / SAÍDA", "text": "Anote onde o complemento foi instalado e como desativá-lo. Remova os arquivos de teste e revogue credenciais de teste quando aplicável. Mantenha apenas o que trouxe um ganho observável."}
+  ],
+  "outro": "Mini instruções: escolha um complemento, responda às cinco perguntas e teste com dados fictícios. Guarde este PDF como ficha de revisão. Repositório de materiais: https://github.com/glauberdemoraes/modelos-marketing"
+}
