@@ -1,0 +1,13 @@
+{
+  "filename": "checklist-fluxo-claude.pdf",
+  "title": "Checklist: fluxo de conteúdo com Claude",
+  "intro": "Um fluxo de cinco etapas para produzir um carrossel por vez. A IA ajuda a organizar e rascunhar; a decisão de publicar e a conferência dos fatos continuam com você.",
+  "sections": [
+    {"heading": "1. Brief e estratégia", "text": "[ ] Defini um público específico. [ ] Escolhi um problema que esse público reconhece. [ ] Tenho uma oferta ou próximo passo coerente. [ ] Separei um exemplo real e as fontes dos fatos."},
+    {"heading": "2. Roteiro e copy", "text": "[ ] A capa promete algo que os cards entregam. [ ] O segundo card funciona sozinho. [ ] Cada card desenvolve uma ideia. [ ] Há resumo antes do CTA. [ ] O CTA pede uma ação e promete um material que existe."},
+    {"heading": "3. Direção visual", "text": "[ ] Cada cena ajuda a entender a ideia. [ ] O visual chama atenção sem confundir. [ ] Texto e contraste são legíveis no celular. [ ] O carrossel não imita identidade visual de outra pessoa."},
+    {"heading": "4. Produção", "text": "[ ] Conferi ortografia e acentos em todas as imagens finais. [ ] Os arquivos estão em 1080 x 1350. [ ] Legenda e palavra-chave correspondem ao último card. [ ] O PDF abre pelo link público."},
+    {"heading": "5. Revisão e publicação", "text": "[ ] Cada número e afirmação tem fonte. [ ] O exemplo aconteceu como descrito. [ ] Não há promessa exagerada. [ ] A pessoa responsável revisou a versão final. [ ] O fluxo de Direct foi testado ou está pronto para verificação."}
+  ],
+  "outro": "Mini instrução: copie esta sequência para cada novo post. Peça ao Claude um rascunho por etapa e não avance enquanto houver uma caixa essencial sem marcar."
+}

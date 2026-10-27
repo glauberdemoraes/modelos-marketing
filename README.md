@@ -28,3 +28,7 @@ O [modelo em PDF](03-projeto-claude/projeto-claude-carrosseis.pdf) inclui a inst
 ## 04. Sua primeira equipe no Claude Code
 
 O [guia em PDF](04-equipe-claude-code/3-skills-claude-code.pdf) organiza planejamento, escrita e revisão. A mesma pasta contém três exemplos de `SKILL.md` para copiar e adaptar ao seu projeto.
+
+## 05. Fluxo de conteúdo com Claude
+
+O [checklist em PDF](05-fluxo-claude/checklist-fluxo-claude.pdf) acompanha brief, roteiro, direção visual, produção e revisão até a publicação.
