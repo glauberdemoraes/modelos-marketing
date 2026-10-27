@@ -1,0 +1,13 @@
+{
+  "filename": "projeto-claude-carrosseis.pdf",
+  "title": "Projeto no Claude para criar carrosséis",
+  "intro": "Este modelo organiza suas referências e suas regras. Ele não promete viralizar nem dispensa revisão. Use apenas materiais que você tem direito de fornecer ao Claude.",
+  "sections": [
+    {"heading": "1. Reúna o contexto", "text": "Separe sua bio, descrição da oferta, cinco posts seus que representam bem seu trabalho e cinco dúvidas reais de clientes sem dados pessoais. Inclua até três referências externas apenas para analisar estrutura, sem pedir cópia."},
+    {"heading": "2. Crie o Projeto", "text": "Abra Projetos no Claude, crie um Projeto para sua marca e adicione os arquivos no conhecimento do Projeto. Na instrução do Projeto, descreva público, oferta, voz, fatos que precisam de fonte e promessas que não podem aparecer."},
+    {"heading": "3. Cole esta instrução", "text": "Você ajuda a criar carrosséis para [público] sobre [tema]. Use primeiro os materiais fornecidos. Quando faltar evidência, pergunte ou marque como hipótese. Não copie frases das referências. Não invente números, depoimentos ou resultados. Entregue capa de até seis palavras, segundo card autônomo, desenvolvimento concreto, resumo e um CTA compatível com a oferta."},
+    {"heading": "4. Peça um carrossel", "text": "Tema: [assunto]. Problema específico do público: [situação]. Exemplo real que posso usar: [exemplo]. Entregável do CTA: [arquivo ou link]. Produza seis cards com até 25 palavras por bloco. Traga duas opções de capa e explique o que cada uma promete ao leitor."},
+    {"heading": "5. Faça a revisão humana", "text": "Confirme cada fato, confira se o exemplo aconteceu, corte frases genéricas, leia os cards no celular e veja se o CTA entrega exatamente o que foi prometido. Publique apenas a versão que você defenderia em conversa com um cliente."}
+  ],
+  "outro": "Mini rotina: crie um tema por vez, anote o que precisou corrigir e atualize as instruções do Projeto. O Claude pode usar arquivos e instruções como contexto do Projeto; chats anteriores só entram no contexto se o conteúdo for adicionado ao conhecimento."
+}

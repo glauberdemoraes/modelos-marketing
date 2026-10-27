@@ -20,3 +20,7 @@ O material é um roteiro de comunicação; adapte-o à sua realidade e às regra
 O [PDF com os sete prompts](02-claude-marca/7-prompts-claude-marca.pdf) ajuda a analisar exemplos reais, separar fatos de hipóteses e construir uma posição própria. A [versão editável](02-claude-marca/7-prompts-claude-marca.md) inclui mini instruções.
 
 Separe sua bio, cinco posts seus e três marcas de referência. Forneça esse material ao Claude, use os prompts na ordem e revise as conclusões antes de publicar.
+
+## 03. Projeto no Claude para criar carrosséis
+
+O [modelo em PDF](03-projeto-claude/projeto-claude-carrosseis.pdf) inclui a instrução do Projeto, um pedido de seis cards e uma lista de revisão antes de publicar. O [arquivo fonte](03-projeto-claude/material.json) permite adaptar o texto.
