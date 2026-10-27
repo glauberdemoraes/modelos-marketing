@@ -66,3 +66,8 @@ O [briefing em PDF](11-edicao-video-claude-code/briefing-video-claude-code.pdf) 
 
 A [matriz em PDF](12-matriz-multicanal-claude/matriz-multicanal-claude.pdf) inclui prompt e revisão para Instagram, LinkedIn, vídeo curto, Stories e email.
 
+
+## 13. Agentes no celular
+
+O [guia em PDF](13-agentes-no-celular/repositorio-agentes-no-celular.pdf) revela o repositório selecionado da lista semanal do GitHub e explica a instalação no Windows.
+

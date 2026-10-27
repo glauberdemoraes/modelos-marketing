@@ -1,0 +1,12 @@
+{
+  "filename": "repositorio-agentes-no-celular.pdf",
+  "title": "Repositório da semana: agentes no celular",
+  "intro": "O projeto é T3 Code, selecionado da lista semanal do GitHub em 27/10/2026. Ele oferece uma interface para agentes de código instalados e autenticados na sua máquina, com aplicativo móvel para acompanhamento.",
+  "sections": [
+    {"heading": "Repositório oficial", "text": "https://github.com/pingdotgg/t3code"},
+    {"heading": "Pré-requisito", "text": "Instale e autentique o Claude Code na máquina. O README cita o comando claude auth login. A ferramenta também aceita outros agentes, mas você precisa configurar ao menos um."},
+    {"heading": "Instalação no Windows", "text": "Opção pelo gerenciador de pacotes: winget install T3Tools.T3Code. Outra opção é baixar o instalador em Releases do repositório oficial. Abra o aplicativo e conecte o agente já autenticado. Siga a documentação oficial para configurar o acesso móvel."},
+    {"heading": "Primeiro teste", "text": "Abra um projeto pequeno, inicie uma tarefa de leitura com Claude Code e acompanhe o estado pela interface. Antes de liberar acesso remoto, revise permissões, sessões ativas e quais pastas o agente pode usar."}
+  ],
+  "outro": "Mini instrução: abra o repositório, leia Installation e Releases, instale pelo winget, confirme seu Claude Code autenticado e teste com um projeto sem dados sensíveis."
+}
