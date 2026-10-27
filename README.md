@@ -46,3 +46,8 @@ O [PDF com 24 prompts](07-24-prompts-claude/24-prompts-claude-marca.pdf) organiz
 
 A [ficha em PDF](08-ficha-claude-viral/ficha-analise-claude.pdf) reúne coleta de três exemplos, prompt de análise, hipótese original e medição.
 
+
+## 09. Seis funções com Claude
+
+O [mapa em PDF](09-seis-funcoes-claude/mapa-seis-funcoes-claude.pdf) traz um prompt para pesquisa, hook, estrutura, direção visual, revisão e publicação.
+

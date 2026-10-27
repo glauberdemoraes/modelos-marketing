@@ -1,0 +1,14 @@
+{
+  "filename": "mapa-seis-funcoes-claude.pdf",
+  "title": "Seis funções de conteúdo com Claude",
+  "intro": "Uma função por conversa ou etapa. Entregue insumos reais, confirme cada saída e preserve aprovação humana antes de publicar.",
+  "sections": [
+    {"heading": "1. Pesquisador", "text": "Entrada: perguntas reais, comentários anonimizados, produto e público. Prompt: Organize [perguntas] em temas. Cite a frase de origem. Separe dúvida recorrente de hipótese. Não invente pesquisa."},
+    {"heading": "2. Roteirista de hooks", "text": "Entrada: tema selecionado e evidência. Prompt: Crie cinco capas de até seis palavras que abram uma pergunta respondida pelo conteúdo. Evite promessa garantida e clique vazio."},
+    {"heading": "3. Estruturador", "text": "Entrada: melhor hook e argumento. Prompt: Distribua a ideia em seis cards. Faça o segundo card funcionar sozinho. Inclua explicação, exemplo, síntese e uma ação final."},
+    {"heading": "4. Diretor visual", "text": "Entrada: roteiro aprovado e identidade. Prompt: Sugira uma metáfora visual contextual por card, com hierarquia de texto, contraste e área segura. Não use imagem chocante sem ligação com a ideia."},
+    {"heading": "5. Revisor e analista", "text": "Entrada: rascunho e fontes. Prompt: Marque frases sem fonte, exageros, repetições e lacunas. Após publicar, compare alcance, salvamentos e respostas com a média da conta. Não atribua causa sem teste."},
+    {"heading": "6. Publicador", "text": "Entrada: mídia final, legenda, CTA, link e horário. Prompt: Monte checklist de tamanho, ortografia, palavra do comentário, link ativo e aprovação. Publique apenas após o responsável autorizar."}
+  ],
+  "outro": "Mini rotina: faça uma função por vez, revise, passe o resultado à próxima. Guarde a decisão humana entre análise e publicação."
+}
