@@ -1,0 +1,12 @@
+{
+  "filename": "repositorio-auditoria-seo.pdf",
+  "title": "Repositório da semana: auditoria SEO",
+  "intro": "O projeto Claude SEO é uma coleção aberta de skills e agentes para auditorias técnicas e editoriais no Claude Code. Ele ajuda a organizar diagnósticos; instalação ou relatório não garantem ranqueamento.",
+  "sections": [
+    {"heading": "Repositório oficial", "text": "https://github.com/AgriciDaniel/claude-seo"},
+    {"heading": "Instalação no Claude Code", "text": "No Claude Code versão 1.0.33 ou superior, digite /plugin marketplace add AgriciDaniel/claude-seo. Depois digite /plugin install claude-seo@agricidaniel-claude-seo. Por fim, execute /seo setup. O projeto também documenta instalação manual para Windows."},
+    {"heading": "Primeira auditoria", "text": "Execute /seo doctor para conferir o ambiente. Em seguida, use /seo audit para pedir análise do seu site. Informe domínio, objetivo, público e acesso aos dados quando houver. Revise velocidade, rastreamento, conteúdo, links e dados estruturados."},
+    {"heading": "Decisão com dados", "text": "Separe erros verificáveis de hipóteses, priorize o que impede indexação ou leitura e confirme a correção. Compare Search Console e outras fontes antes e depois, sem atribuir a variação de posição a uma única mudança."}
+  ],
+  "outro": "Mini instrução: leia o README, instale o plugin, rode setup e doctor, faça a auditoria de uma página e valide manualmente os pontos críticos."
+}

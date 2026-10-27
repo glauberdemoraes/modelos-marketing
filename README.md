@@ -81,3 +81,8 @@ O [guia em PDF](14-mapa-codigo/repositorio-mapa-codigo.pdf) revela o repositóri
 
 O [guia em PDF](15-auditoria-seguranca/repositorio-auditoria-seguranca.pdf) revela a skill, mostra a instalação e explica as classes dos achados.
 
+
+## 16. Auditoria SEO
+
+O [guia em PDF](16-auditoria-seo/repositorio-auditoria-seo.pdf) revela o plugin e mostra instalação, preparação e primeira auditoria no Claude Code.
+
