@@ -1,0 +1,12 @@
+{
+  "filename": "roteiro-auditoria-perfil-claude.pdf",
+  "title": "Roteiro: audite seu perfil com Claude",
+  "intro": "Use Claude no Chrome em uma página pública ou copie os textos para o chat. O objetivo é encontrar dúvidas que impedem uma pessoa nova de entender seu perfil.",
+  "sections": [
+    {"heading": "1. Reúna o que aparece", "text": "Abra seu perfil. Separe campo de nome, bio, links, destaques e títulos dos nove posts recentes. Se usar a extensão, confira se Claude leu a página certa. Não envie dados privados de seguidores."},
+    {"heading": "2. Prompt de diagnóstico", "text": "Analise este perfil para alguém que o vê pela primeira vez. Liste, com trechos citados: quem parece ser o público; o que se oferece; que prova aparece; como começar. Aponte três ambiguidades. Se faltar dado, diga que falta. Não invente métricas ou resultados."},
+    {"heading": "3. Prompt de melhoria", "text": "Reescreva apenas os trechos vagos. Preserve tom, fatos, oferta e limites profissionais. Crie três opções de bio curtas e explique a mudança concreta em cada uma. Não prometa ganho de seguidores."},
+    {"heading": "4. Revisão e medição", "text": "Escolha uma versão, revise links e informações. Salve a versão antiga. Depois compare visitas ao perfil, cliques no link e conversas iniciadas com período semelhante, quando esses dados existirem."}
+  ],
+  "outro": "Mini instrução: comece pelo diagnóstico, corrija um ponto por vez e peça a uma pessoa do público para dizer o que entendeu em cinco segundos."
+}

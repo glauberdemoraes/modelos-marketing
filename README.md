@@ -51,3 +51,8 @@ A [ficha em PDF](08-ficha-claude-viral/ficha-analise-claude.pdf) reúne coleta d
 
 O [mapa em PDF](09-seis-funcoes-claude/mapa-seis-funcoes-claude.pdf) traz um prompt para pesquisa, hook, estrutura, direção visual, revisão e publicação.
 
+
+## 10. Auditoria de perfil com Claude
+
+O [roteiro em PDF](10-auditoria-perfil-claude/roteiro-auditoria-perfil-claude.pdf) traz os campos a reunir, prompts de diagnóstico e melhoria, e uma checagem de resultados.
+
