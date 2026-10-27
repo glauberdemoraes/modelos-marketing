@@ -36,3 +36,8 @@ O [checklist em PDF](05-fluxo-claude/checklist-fluxo-claude.pdf) acompanha brief
 ## 06. Aprender com um post de alto alcance
 
 A [ficha em PDF](06-analisar-viral/ficha-analisar-post.pdf) separa métricas, hipótese, variação de conteúdo e comparação posterior.
+
+## 07. 24 prompts de Claude por etapa
+
+O [PDF com 24 prompts](07-24-prompts-claude/24-prompts-claude-marca.pdf) organiza atração, educação, conversa e conversão. Escolha um prompt por vez, forneça dados reais e revise a resposta antes de publicar.
+

@@ -17,9 +17,9 @@ data = json.loads((folder / 'material.json').read_text(encoding='utf-8'))
 out = folder / data['filename']
 pdfmetrics.registerFont(TTFont('Arial', r'C:\Windows\Fonts\arial.ttf'))
 pdfmetrics.registerFont(TTFont('Arial-Bold', r'C:\Windows\Fonts\arialbd.ttf'))
-title = ParagraphStyle('title', fontName='Arial-Bold', fontSize=22, leading=27, textColor=HexColor('#13233b'), spaceAfter=14)
-body = ParagraphStyle('body', fontName='Arial', fontSize=10.5, leading=15, textColor=HexColor('#263548'), spaceAfter=10)
-section = ParagraphStyle('section', fontName='Arial', fontSize=10.3, leading=15, textColor=HexColor('#17263b'), spaceAfter=13)
+title = ParagraphStyle('title', fontName='Arial-Bold', fontSize=22, leading=27, textColor=HexColor('#13233b'), spaceAfter=12)
+body = ParagraphStyle('body', fontName='Arial', fontSize=10.3, leading=14, textColor=HexColor('#263548'), spaceAfter=8)
+section = ParagraphStyle('section', fontName='Arial', fontSize=10.1, leading=14, textColor=HexColor('#17263b'), spaceAfter=9)
 small = ParagraphStyle('small', fontName='Arial', fontSize=9.5, leading=13, textColor=HexColor('#43546b'), spaceAfter=8)
 
 def p(text, style=body):
@@ -41,11 +41,11 @@ for item in data['sections']:
     story.append(KeepTogether([
         Paragraph(f'<font color="#e45b22"><b>{escape(item["heading"])}</b></font>', section),
         p(item['text'], section),
-        Spacer(1, 2),
+        Spacer(1, 0),
     ]))
 story.append(p(data['outro'], small))
 repo = 'https://github.com/glauberdemoraes/modelos-marketing'
 story.append(Paragraph(f'Mais modelos e arquivos editáveis: <link href="{repo}" color="#235aa6">{repo}</link>', small))
-doc = SimpleDocTemplate(str(out), pagesize=A4, leftMargin=42, rightMargin=42, topMargin=42, bottomMargin=61, title=data['title'], author='Glauber Moraes Mkt')
+doc = SimpleDocTemplate(str(out), pagesize=A4, leftMargin=42, rightMargin=42, topMargin=38, bottomMargin=55, title=data['title'], author='Glauber Moraes Mkt')
 doc.build(story, onFirstPage=footer, onLaterPages=footer)
 print(out)
