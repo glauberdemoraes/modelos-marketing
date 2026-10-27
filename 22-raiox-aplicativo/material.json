@@ -1,0 +1,13 @@
+{
+  "filename": "repositorio-raiox-aplicativo.pdf",
+  "title": "Repositório da semana: investigar um aplicativo com agentes",
+  "intro": "O projeto é REA, uma ferramenta que conecta Claude Code, Codex e outros agentes a métodos de análise de aplicativos. Ela apresenta observações, evidências e limites; não devolve automaticamente o código-fonte original.",
+  "sections": [
+    {"heading": "Origem oficial", "text": "https://github.com/morluto/rea. O README aponta também para rea.tools e para o pacote npm rea-agents. Há repositórios de nome parecido; use os links indicados na origem oficial."},
+    {"heading": "Pré-requisitos", "text": "Instale Node.js e npm em versões aceitas pelo README atual. Em 27/10/2026, o projeto informa Node 22.23.4+, 24.22.1+ ou 26.12.1+. Recursos de análise nativa podem exigir ferramentas adicionais; a análise estática de JavaScript não exige mecanismo nativo."},
+    {"heading": "Instalação para Claude Code ou Codex", "text": "No terminal, rode npx rea-agents setup. Escolha o agente, leia as mudanças propostas, aceite a configuração e reinicie o agente. O setup registra o servidor MCP e as instruções de trabalho; confira as permissões e os arquivos alterados antes de aceitar."},
+    {"heading": "Primeiro teste", "text": "Use um app seu ou um projeto aberto. Escolha uma função pequena, como busca ou filtro. Peça ao agente: investigue como esta função se comporta, mostre as evidências e os limites, e proponha uma implementação própria no meu projeto. Revise as descobertas antes de pedir código."},
+    {"heading": "Alternativa por linha de comando", "text": "Para um diretório extraído de app JavaScript ou Electron, o README mostra: npx -y rea-agents@latest analyze-javascript-application /caminho/absoluto/do/app --json. No Windows, substitua por um caminho como D:/apps/exemplo. Confira o comando atual no README antes de usar."}
+  ],
+  "outro": "Mini instrução: abra somente a origem oficial, confira Node e npm, rode o setup, reinicie o agente e investigue uma função pequena de um app seu ou aberto antes de tentar reconstruir algo."
+}
