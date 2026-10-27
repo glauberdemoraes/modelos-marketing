@@ -1,0 +1,13 @@
+{
+  "filename": "repositorio-regras-agente.pdf",
+  "title": "Repositório da semana: regras para agentes de código",
+  "intro": "Este material aponta para um arquivo CLAUDE.md com quatro princípios inspirados em observações de Andrej Karpathy: pensar antes de codar, simplicidade, mudanças cirúrgicas e objetivos verificáveis. As regras ajudam a orientar o trabalho; não garantem que todo erro desapareça.",
+  "sections": [
+    {"heading": "Repositório", "text": "https://github.com/multica-ai/andrej-karpathy-skills"},
+    {"heading": "O que instalar", "text": "Abra o arquivo CLAUDE.md na raiz do repositório e leia as quatro seções antes de copiar. O README oferece uma forma de plugin e outra por arquivo de projeto, mas alguns comandos ainda apontam para um caminho antigo do repositório. Por isso, confira o destino atual no GitHub antes de executar comandos prontos."},
+    {"heading": "Instalar com ajuda do Claude Code", "text": "No seu projeto, peça: Leia o CLAUDE.md de https://github.com/multica-ai/andrej-karpathy-skills. Compare com o meu CLAUDE.md atual. Proponha um diff mínimo para incorporar apenas as regras compatíveis; não sobrescreva minhas instruções e não altere outros arquivos sem me mostrar o plano. Revise o diff antes de aceitar."},
+    {"heading": "Primeiro teste", "text": "Escolha um bug pequeno e peça ao agente para: 1) listar suposições, 2) reproduzir o defeito com um teste, 3) fazer a menor mudança, 4) rodar o teste e 5) mostrar o diff. Compare o resultado com um pedido sem essas regras para avaliar se ajudaram no seu projeto."},
+    {"heading": "Limite importante", "text": "O arquivo é uma orientação de comportamento, não uma ferramenta de verificação automática. Continue lendo as alterações e executando os testes. Adapte as regras ao contexto e não substitua o CLAUDE.md específico do projeto sem revisão."}
+  ],
+  "outro": "Mini instrução: confira o repositório original, leia o CLAUDE.md, peça ao Claude Code um diff mínimo para integrar as regras e teste num bug pequeno antes de adotar globalmente."
+}
