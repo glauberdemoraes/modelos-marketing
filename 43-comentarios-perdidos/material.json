@@ -1,0 +1,20 @@
+{
+  "filename": "guia-comentarios-perdidos.pdf",
+  "title": "Organizar entrega de material por comentários no Instagram",
+  "intro": "Material de @glauber.moraes.mkt. Problema: Organizar entrega de material por comentários no Instagram.",
+  "sections": [
+    {
+      "heading": "PEDIDO PARA COPIAR E ADAPTAR",
+      "text": "Desenhe um fluxo de comentário para o Instagram. Palavra desta postagem: [palavra única]. Material entregue: [link]. Primeiro confirme o pedido no Direct. Depois atualize o perfil e confira se a pessoa segue a conta. Se seguir, envie o link. Se não seguir, peça para seguir e ofereça um botão de verificar novamente. Ao clicar, atualize o perfil outra vez; se ainda não seguir, avise que a verificação continua negativa e mantenha a opção de tentar de novo. Não entregue antes da confirmação."
+    },
+    {
+      "heading": "COMO TESTAR",
+      "text": "Substitua os trechos entre colchetes pelas informações reais. Faça uma primeira tarefa pequena, confira o resultado e corrija as suposições da IA antes de produzir ou publicar em volume."
+    },
+    {
+      "heading": "O QUE CONFERIR",
+      "text": "Verifique fatos, preços, promessa, qualidade visual e funcionamento. Guarde a versão aprovada e repita a revisão quando mudar a oferta ou o processo."
+    }
+  ],
+  "outro": "Mais materiais: https://github.com/glauberdemoraes/modelos-marketing"
+}
