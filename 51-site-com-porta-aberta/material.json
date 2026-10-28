@@ -1,0 +1,24 @@
+{
+  "filename": "guia-site-com-porta-aberta.pdf",
+  "title": "Encontrar falhas de segurança em um site criado com IA",
+  "intro": "Material de @glauber.moraes.mkt. Problema: Encontrar falhas de segurança em um site criado com IA.",
+  "sections": [
+    {
+      "heading": "01 / PROJETO ORIGINAL",
+      "text": "Link: https://github.com/cloudflare/security-audit-skill. Confira as instruções, requisitos, licença e custos antes de instalar. O nome foi guardado no carrossel para entregar aqui o caminho correto."
+    },
+    {
+      "heading": "02 / PEDIDO PARA O CLAUDE OU CODEX",
+      "text": "Analise este projeto [caminho] somente com minha autorização. Use a ferramenta oficial do link para procurar riscos de segurança. Explique cada achado em português comum, diga que evidência sustenta o alerta e se alguém conseguiu reproduzi-lo. Priorize o que expõe dados ou permite acesso indevido. Não altere produção nem declare o site seguro apenas porque a análise terminou."
+    },
+    {
+      "heading": "03 / TESTE PEQUENO",
+      "text": "Peça ao assistente para ler o projeto original e explicar os requisitos. Teste com informação fictícia ou autorizada antes de usar dados reais. Confira a saída e registre o que funcionou."
+    },
+    {
+      "heading": "04 / CONFERÊNCIA",
+      "text": "Verifique os fatos e o resultado. Não publique, fabrique, dê acesso a arquivos pessoais ou tome decisões importantes apenas com a resposta da IA."
+    }
+  ],
+  "outro": "Mais materiais: https://github.com/glauberdemoraes/modelos-marketing"
+}
