@@ -1,0 +1,24 @@
+{
+  "filename": "guia-contrato-longo-ia.pdf",
+  "title": "Encontrar cláusulas específicas em documentos longos com IA",
+  "intro": "Material de @glauber.moraes.mkt. Problema: Encontrar cláusulas específicas em documentos longos com IA.",
+  "sections": [
+    {
+      "heading": "01 / PROJETO ORIGINAL",
+      "text": "Link: https://github.com/VectifyAI/PageIndex. Confira as instruções, requisitos, licença e custos antes de instalar. O nome foi guardado no carrossel para entregar aqui o caminho correto."
+    },
+    {
+      "heading": "02 / PEDIDO PARA O CLAUDE OU CODEX",
+      "text": "Quero localizar no documento [arquivo] os trechos que tratam de [assunto]. Use o projeto oficial do link e, se eu tiver Claude Code, considere a opção documentada que usa minha assinatura sem chave de API. Para cada resposta, mostre página, trecho exato e o que ainda precisa ser confirmado. Não trate a resposta como parecer jurídico. Se não achar, diga que não achou. Não envie documento confidencial para um serviço externo sem eu entender o caminho dos dados."
+    },
+    {
+      "heading": "03 / TESTE PEQUENO",
+      "text": "Peça ao assistente para ler o projeto original e explicar os requisitos. Teste com informação fictícia ou autorizada antes de usar dados reais. Confira a saída e registre o que funcionou."
+    },
+    {
+      "heading": "04 / CONFERÊNCIA",
+      "text": "Verifique os fatos e o resultado. Não publique, fabrique, dê acesso a arquivos pessoais ou tome decisões importantes apenas com a resposta da IA."
+    }
+  ],
+  "outro": "Mais materiais: https://github.com/glauberdemoraes/modelos-marketing"
+}

@@ -1,0 +1,24 @@
+{
+  "filename": "guia-ia-pesquisa-no-escuro.pdf",
+  "title": "Pesquisar fontes públicas de várias plataformas antes de criar conteúdo",
+  "intro": "Material de @glauber.moraes.mkt. Problema: Pesquisar fontes públicas de várias plataformas antes de criar conteúdo.",
+  "sections": [
+    {
+      "heading": "01 / PROJETO ORIGINAL",
+      "text": "Link: https://github.com/Panniantong/Agent-Reach. Confira as instruções, requisitos, licença e custos antes de instalar. O nome foi guardado no carrossel para entregar aqui o caminho correto."
+    },
+    {
+      "heading": "02 / PEDIDO PARA O CLAUDE OU CODEX",
+      "text": "Quero pesquisar [assunto] antes de criar conteúdo. Consulte o projeto oficial do link e explique quais sites ele consegue ler neste computador, com as limitações atuais. Traga apenas informações públicas com endereço e data da fonte. Separe fatos, opiniões e rumores. Não faça login por mim, não copie dados privados e não afirme que pesquisou uma plataforma que não conseguiu acessar."
+    },
+    {
+      "heading": "03 / TESTE PEQUENO",
+      "text": "Peça ao assistente para ler o projeto original e explicar os requisitos. Teste com informação fictícia ou autorizada antes de usar dados reais. Confira a saída e registre o que funcionou."
+    },
+    {
+      "heading": "04 / CONFERÊNCIA",
+      "text": "Verifique os fatos e o resultado. Não publique, fabrique, dê acesso a arquivos pessoais ou tome decisões importantes apenas com a resposta da IA."
+    }
+  ],
+  "outro": "Mais materiais: https://github.com/glauberdemoraes/modelos-marketing"
+}

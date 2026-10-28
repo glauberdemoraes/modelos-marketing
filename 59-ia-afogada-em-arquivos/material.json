@@ -1,0 +1,24 @@
+{
+  "filename": "guia-ia-afogada-em-arquivos.pdf",
+  "title": "Evitar que uma conversa longa com IA perca o foco por excesso de arquivos",
+  "intro": "Material de @glauber.moraes.mkt. Problema: Evitar que uma conversa longa com IA perca o foco por excesso de arquivos.",
+  "sections": [
+    {
+      "heading": "01 / PROJETO ORIGINAL",
+      "text": "Link: https://github.com/mksglu/context-mode. Confira as instruções, requisitos, licença e custos antes de instalar. O nome foi guardado no carrossel para entregar aqui o caminho correto."
+    },
+    {
+      "heading": "02 / PEDIDO PARA O CLAUDE OU CODEX",
+      "text": "Estou trabalhando no projeto [pasta] com uma IA que lê muitos arquivos. Consulte o projeto oficial do link, confira compatibilidade com meu assistente e proponha uma instalação de teste reversível. Mostre quanto texto foi enviado antes e depois em uma tarefa pequena e se a resposta continuou correta. Não prometa economia fixa nem apague o histórico do projeto. Se a ferramenta não for compatível, diga isso."
+    },
+    {
+      "heading": "03 / TESTE PEQUENO",
+      "text": "Peça ao assistente para ler o projeto original e explicar os requisitos. Teste com informação fictícia ou autorizada antes de usar dados reais. Confira a saída e registre o que funcionou."
+    },
+    {
+      "heading": "04 / CONFERÊNCIA",
+      "text": "Verifique os fatos e o resultado. Não publique, fabrique, dê acesso a arquivos pessoais ou tome decisões importantes apenas com a resposta da IA."
+    }
+  ],
+  "outro": "Mais materiais: https://github.com/glauberdemoraes/modelos-marketing"
+}
