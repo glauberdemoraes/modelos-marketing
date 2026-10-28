@@ -5,7 +5,7 @@
   "sections": [
     {
       "heading": "01 / FERRAMENTA OFICIAL",
-      "text": "Link do projeto: https://github.com/remotion-dev/remotion. Leia as instruções de instalação e confira os requisitos antes de usar. O nome foi guardado no carrossel para entregar o caminho certo aqui."
+      "text": "Projeto oficial: https://github.com/remotion-dev/remotion. Instale o Node.js e crie um projeto com npx create-video@latest, conforme https://www.remotion.dev/docs/. Abra a pasta criada e siga a instrução exibida para iniciar a prévia. Peça ao Claude Code para montar uma peça vertical com texto, preço e foto substituíveis. Renderize só um vídeo de teste; o comando oficial para renderização é npx remotion render. Confira o vídeo antes de produzir variações."
     },
     {
       "heading": "LICENÇA PARA USO COMERCIAL",
