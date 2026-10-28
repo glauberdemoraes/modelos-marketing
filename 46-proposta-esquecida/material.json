@@ -1,0 +1,20 @@
+{
+  "filename": "guia-proposta-esquecida.pdf",
+  "title": "Criar propostas comerciais com IA sem inventar entregas",
+  "intro": "Material de @glauber.moraes.mkt. Problema: Criar propostas comerciais com IA sem inventar entregas.",
+  "sections": [
+    {
+      "heading": "PEDIDO PARA COPIAR E ADAPTAR",
+      "text": "Monte uma proposta comercial apenas com estes dados aprovados: serviço [descreva], entregas [liste], quantidade [número], revisões incluídas [número], prazo [período], preço [valor], responsabilidades do cliente [liste] e exclusões [liste]. Marque qualquer informação ausente em vez de inventá-la. Depois leia como um cliente e destaque frase que possa parecer promessa maior que o escopo. Não envie a proposta sem minha revisão."
+    },
+    {
+      "heading": "COMO TESTAR",
+      "text": "Substitua os trechos entre colchetes pelas informações reais. Faça uma primeira tarefa pequena, confira o resultado e corrija as suposições da IA antes de produzir ou publicar em volume."
+    },
+    {
+      "heading": "O QUE CONFERIR",
+      "text": "Verifique fatos, preços, promessa, qualidade visual e funcionamento. Guarde a versão aprovada e repita a revisão quando mudar a oferta ou o processo."
+    }
+  ],
+  "outro": "Mais materiais: https://github.com/glauberdemoraes/modelos-marketing"
+}
