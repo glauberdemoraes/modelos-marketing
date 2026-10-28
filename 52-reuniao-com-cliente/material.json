@@ -1,0 +1,24 @@
+{
+  "filename": "guia-reuniao-com-cliente.pdf",
+  "title": "Preparar uma conversa comercial sem esquecer o histórico do cliente",
+  "intro": "Material de @glauber.moraes.mkt. Problema: Preparar uma conversa comercial sem esquecer o histórico do cliente.",
+  "sections": [
+    {
+      "heading": "01 / PROJETO ORIGINAL",
+      "text": "Link: https://github.com/anthropics/knowledge-work-plugins. Confira as instruções, requisitos, licença e custos antes de instalar. O nome foi guardado no carrossel para entregar aqui o caminho correto."
+    },
+    {
+      "heading": "02 / PEDIDO PARA O CLAUDE OU CODEX",
+      "text": "Use o conjunto oficial do link para me ajudar a preparar uma conversa comercial. Histórico do cliente: [cole somente dados que posso usar]. Objetivo da reunião: [descreva]. Separe fatos confirmados, dúvidas que preciso perguntar e próximos passos possíveis. Não invente compra anterior, orçamento ou urgência. Entregue uma página que eu consiga ler antes da chamada."
+    },
+    {
+      "heading": "03 / TESTE PEQUENO",
+      "text": "Peça ao assistente para ler o projeto original e explicar os requisitos. Teste com informação fictícia ou autorizada antes de usar dados reais. Confira a saída e registre o que funcionou."
+    },
+    {
+      "heading": "04 / CONFERÊNCIA",
+      "text": "Verifique os fatos e o resultado. Não publique, fabrique, dê acesso a arquivos pessoais ou tome decisões importantes apenas com a resposta da IA."
+    }
+  ],
+  "outro": "Mais materiais: https://github.com/glauberdemoraes/modelos-marketing"
+}

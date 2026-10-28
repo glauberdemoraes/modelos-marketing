@@ -1,0 +1,24 @@
+{
+  "filename": "guia-site-com-cara-de-pronto.pdf",
+  "title": "Melhorar a aparência de um site feito com IA sem refazer a função",
+  "intro": "Material de @glauber.moraes.mkt. Problema: Melhorar a aparência de um site feito com IA sem refazer a função.",
+  "sections": [
+    {
+      "heading": "01 / PROJETO ORIGINAL",
+      "text": "Link: https://github.com/pbakaus/impeccable. Confira as instruções, requisitos, licença e custos antes de instalar. O nome foi guardado no carrossel para entregar aqui o caminho correto."
+    },
+    {
+      "heading": "02 / PEDIDO PARA O CLAUDE OU CODEX",
+      "text": "Revise o visual do site [endereço ou pasta] usando o projeto do link. Preserve identidade, textos aprovados e funções. Mostre primeiro os problemas de leitura, espaçamento, hierarquia e adaptação ao celular com exemplos concretos. Proponha a menor sequência de mudanças que deixe cada tela clara. Gere comparação antes e depois e teste os caminhos principais antes de declarar pronto."
+    },
+    {
+      "heading": "03 / TESTE PEQUENO",
+      "text": "Peça ao assistente para ler o projeto original e explicar os requisitos. Teste com informação fictícia ou autorizada antes de usar dados reais. Confira a saída e registre o que funcionou."
+    },
+    {
+      "heading": "04 / CONFERÊNCIA",
+      "text": "Verifique os fatos e o resultado. Não publique, fabrique, dê acesso a arquivos pessoais ou tome decisões importantes apenas com a resposta da IA."
+    }
+  ],
+  "outro": "Mais materiais: https://github.com/glauberdemoraes/modelos-marketing"
+}
