@@ -1,0 +1,20 @@
+{
+  "filename": "guia-site-sem-clique.pdf",
+  "title": "Encontrar o ponto onde visitantes desistem do site",
+  "intro": "Material de @glauber.moraes.mkt. Problema: Encontrar o ponto onde visitantes desistem do site.",
+  "sections": [
+    {
+      "heading": "PEDIDO PARA COPIAR E ADAPTAR",
+      "text": "Atue como visitante novo no site [endereço]. Sem receber o caminho pronto, tente descobrir o que a empresa vende, para quem é, quanto custa ou como pedir informação, e encontre o botão de contato. Registre cada tela e onde você se perdeu. Não altere o site ainda. Depois proponha uma correção pequena para o ponto mais confuso, teste no celular e no computador e mostre o resultado."
+    },
+    {
+      "heading": "COMO TESTAR",
+      "text": "Substitua os trechos entre colchetes pelas informações reais. Faça uma primeira tarefa pequena, confira o resultado e corrija as suposições da IA antes de produzir ou publicar em volume."
+    },
+    {
+      "heading": "O QUE CONFERIR",
+      "text": "Verifique fatos, preços, promessa, qualidade visual e funcionamento. Guarde a versão aprovada e repita a revisão quando mudar a oferta ou o processo."
+    }
+  ],
+  "outro": "Mais materiais: https://github.com/glauberdemoraes/modelos-marketing"
+}
