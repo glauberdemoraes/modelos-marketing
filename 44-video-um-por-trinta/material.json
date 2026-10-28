@@ -1,0 +1,20 @@
+{
+  "filename": "guia-video-um-por-trinta.pdf",
+  "title": "Transformar um vídeo longo em cortes úteis sem publicar lixo",
+  "intro": "Material de @glauber.moraes.mkt. Problema: Transformar um vídeo longo em cortes úteis sem publicar lixo.",
+  "sections": [
+    {
+      "heading": "PEDIDO PARA COPIAR E ADAPTAR",
+      "text": "Vou colar a transcrição de um vídeo longo. Separe apenas trechos que contem uma história compreensível sozinha: problema, tensão e resposta. Para cada corte, informe início, fim, título claro, primeira frase e motivo para assistir. Rejeite trechos que dependam de contexto anterior. Não invente falas nem altere o sentido. Depois da seleção, eu conferirei o áudio original antes de publicar."
+    },
+    {
+      "heading": "COMO TESTAR",
+      "text": "Substitua os trechos entre colchetes pelas informações reais. Faça uma primeira tarefa pequena, confira o resultado e corrija as suposições da IA antes de produzir ou publicar em volume."
+    },
+    {
+      "heading": "O QUE CONFERIR",
+      "text": "Verifique fatos, preços, promessa, qualidade visual e funcionamento. Guarde a versão aprovada e repita a revisão quando mudar a oferta ou o processo."
+    }
+  ],
+  "outro": "Mais materiais: https://github.com/glauberdemoraes/modelos-marketing"
+}
