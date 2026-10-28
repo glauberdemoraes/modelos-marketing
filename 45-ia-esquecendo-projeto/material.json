@@ -1,0 +1,20 @@
+{
+  "filename": "guia-ia-esquecendo-projeto.pdf",
+  "title": "Manter decisões do projeto entre conversas com IA",
+  "intro": "Material de @glauber.moraes.mkt. Problema: Manter decisões do projeto entre conversas com IA.",
+  "sections": [
+    {
+      "heading": "PEDIDO PARA COPIAR E ADAPTAR",
+      "text": "Crie um resumo curto para retomar este projeto em uma nova conversa. Inclua objetivo, regras que não podem mudar, decisões já tomadas, arquivos importantes, o que foi feito, o que falta e próximo passo. Separe fatos verificados de hipóteses. Antes de sugerir alterações, compare o resumo com o estado atual dos arquivos e sinalize conflitos. Atualize o resumo depois de cada mudança grande."
+    },
+    {
+      "heading": "COMO TESTAR",
+      "text": "Substitua os trechos entre colchetes pelas informações reais. Faça uma primeira tarefa pequena, confira o resultado e corrija as suposições da IA antes de produzir ou publicar em volume."
+    },
+    {
+      "heading": "O QUE CONFERIR",
+      "text": "Verifique fatos, preços, promessa, qualidade visual e funcionamento. Guarde a versão aprovada e repita a revisão quando mudar a oferta ou o processo."
+    }
+  ],
+  "outro": "Mais materiais: https://github.com/glauberdemoraes/modelos-marketing"
+}
