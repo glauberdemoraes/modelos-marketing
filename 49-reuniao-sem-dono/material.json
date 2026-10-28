@@ -1,0 +1,20 @@
+{
+  "filename": "guia-reuniao-sem-dono.pdf",
+  "title": "Transformar reunião em tarefas com responsáveis",
+  "intro": "Material de @glauber.moraes.mkt. Problema: Transformar reunião em tarefas com responsáveis.",
+  "sections": [
+    {
+      "heading": "PEDIDO PARA COPIAR E ADAPTAR",
+      "text": "Vou colar a transcrição de uma reunião. Separe em quatro grupos: decisões tomadas, tarefas combinadas, responsável nomeado e prazo mencionado. Cite a frase da transcrição que comprova cada item. Se o responsável ou o prazo não foi dito, escreva PENDENTE DE CONFIRMAÇÃO; não invente. Gere uma lista curta para a equipe validar antes de executar."
+    },
+    {
+      "heading": "COMO TESTAR",
+      "text": "Substitua os trechos entre colchetes pelas informações reais. Faça uma primeira tarefa pequena, confira o resultado e corrija as suposições da IA antes de produzir ou publicar em volume."
+    },
+    {
+      "heading": "O QUE CONFERIR",
+      "text": "Verifique fatos, preços, promessa, qualidade visual e funcionamento. Guarde a versão aprovada e repita a revisão quando mudar a oferta ou o processo."
+    }
+  ],
+  "outro": "Mais materiais: https://github.com/glauberdemoraes/modelos-marketing"
+}
