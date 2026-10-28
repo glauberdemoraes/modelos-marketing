@@ -1,0 +1,20 @@
+{
+  "filename": "guia-produto-antigo-ia.pdf",
+  "title": "Impedir posts sobre oferta desatualizada",
+  "intro": "Material de @glauber.moraes.mkt. Problema: Impedir posts sobre oferta desatualizada.",
+  "sections": [
+    {
+      "heading": "PEDIDO PARA COPIAR E ADAPTAR",
+      "text": "Antes de criar conteúdo, use somente esta ficha atual da oferta: produto [nome], descrição [texto], preço [valor], público [quem compra], benefícios confirmados [liste], limites [liste], prazo de validade [data]. Compare com os documentos antigos que encontrar e marque qualquer conflito. Não escreva peças até eu confirmar qual informação está certa. Depois faça uma amostra de cada formato e aguarde minha aprovação antes do lote completo."
+    },
+    {
+      "heading": "COMO TESTAR",
+      "text": "Substitua os trechos entre colchetes pelas informações reais. Faça uma primeira tarefa pequena, confira o resultado e corrija as suposições da IA antes de produzir ou publicar em volume."
+    },
+    {
+      "heading": "O QUE CONFERIR",
+      "text": "Verifique fatos, preços, promessa, qualidade visual e funcionamento. Guarde a versão aprovada e repita a revisão quando mudar a oferta ou o processo."
+    }
+  ],
+  "outro": "Mais materiais: https://github.com/glauberdemoraes/modelos-marketing"
+}
