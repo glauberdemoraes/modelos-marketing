@@ -1,0 +1,28 @@
+{
+  "filename": "guia-video-explicativo-claude-code.pdf",
+  "title": "Transformar um texto em vídeo explicativo narrado com Claude Code",
+  "intro": "Material de @glauber.moraes.mkt. Problema: o texto está pronto, mas virar vídeo exige cenas, narração e edição. Solução: a habilidade video-explainer-system (habilidade é um pacote de instruções que ensina o Claude Code, a IA que trabalha com arquivos no seu computador, a fazer uma tarefa) monta as cenas, prepara a narração e gera o arquivo de vídeo.",
+  "sections": [
+    {
+      "heading": "01 / O QUE VOCÊ RECEBE",
+      "text": "O link da habilidade, o caminho de instalação e um pedido pronto para criar o primeiro vídeo a partir de um tema ou documento. Repositório: https://github.com/nemock/video-explainer-system"
+    },
+    {
+      "heading": "02 / CUSTO E REQUISITOS",
+      "text": "O código é gratuito, com licença MIT. O Claude Code pode exigir assinatura ou cobrança de uso. A habilidade usa ferramentas que rodam no seu computador: o Kokoro, que gera a voz, e o ffmpeg, programa que monta o arquivo de vídeo. Confira no README (a página de instruções do repositório) os requisitos e comandos atualizados antes de instalar."
+    },
+    {
+      "heading": "03 / COMO COMEÇAR",
+      "text": "1) Abra o README e siga a instalação indicada para o seu sistema. 2) Separe um texto curto que você tenha direito de usar e tire dados confidenciais. 3) Abra o Claude Code na pasta do projeto e peça para usar a habilidade instalada. 4) Revise a proposta visual, o roteiro e a narração antes de gerar o vídeo final. 5) Assista ao arquivo inteiro e corrija informações, pronúncia, cortes e imagens antes de publicar."
+    },
+    {
+      "heading": "04 / PEDIDO PRONTO PARA COPIAR",
+      "text": "Copie e cole: \"Use a habilidade video-explainer-system para transformar o texto abaixo em um vídeo explicativo narrado para pessoas leigas. Antes de produzir, apresente um roteiro de cenas com o que será dito e mostrado. Não invente fatos. Use frases curtas e exemplos visuais simples. Pare para minha revisão do roteiro. Depois de aprovado, gere o vídeo e me mostre onde ficou o arquivo final. Texto: [COLE AQUI].\""
+    },
+    {
+      "heading": "05 / LIMITES PRÁTICOS",
+      "text": "O resultado depende da qualidade do texto e das ferramentas instaladas. Revise fatos, áudio e imagem. A licença MIT vale para o repositório; custos do Claude Code e do seu computador são separados."
+    }
+  ],
+  "outro": "Fonte oficial: https://github.com/nemock/video-explainer-system. Gostou? Comente outras palavras nos posts de @glauber.moraes.mkt para receber mais materiais."
+}
