@@ -1,0 +1,28 @@
+{
+ "filename": "guia-pesquisa-mercado-claude-code.pdf",
+ "title": "Investigue o mercado antes de investir na sua ideia",
+ "intro": "Material de @glauber.moraes.mkt. Problema: investir numa ideia sem saber quem já vende o quê. Solução: a habilidade gratuita Market Research Skill (habilidade é um pacote de instruções que ensina o Claude Code a fazer uma tarefa) organiza a pesquisa de concorrentes com fontes.",
+ "sections": [
+  {
+   "heading": "O que você recebe",
+   "text": "O link da habilidade gratuita Market Research Skill para Claude Code e um pedido pronto para comparar concorrentes com fontes. O projeto está sob licença MIT. O uso do Claude Code pode ter custo conforme seu plano.\n\nFonte: https://github.com/PJharwal/market-research-skill"
+  },
+  {
+   "heading": "Como começar",
+   "text": "Abra o repositório e siga a seção Installation do README. A habilidade usa o Claude Code e Python 3.8 ou superior. Se você não sabe instalar ferramentas no computador, peça ajuda antes de executar comandos copiados da internet.\n\nReúna uma descrição curta da sua ideia, público, região, canais de venda e três concorrentes conhecidos. Evite colocar dados pessoais ou informações sigilosas no pedido."
+  },
+  {
+   "heading": "Pedido pronto para adaptar",
+   "text": "Use a habilidade Market Research para investigar esta ideia: [IDEIA]. Público: [PÚBLICO]. Região: [REGIÃO]. Antes de recomendar qualquer investimento, pesquise concorrentes reais e mostre o que vendem, para quem, como apresentam a oferta e os preços que estiverem publicados. Para cada afirmação, inclua o link da fonte e a data da consulta. Separe fatos confirmados, estimativas e perguntas ainda sem resposta. Compare pontos fortes, lacunas e possíveis diferenças para a minha ideia. Termine com três hipóteses pequenas que eu possa testar com clientes antes de gastar mais. Não invente tamanho de mercado, faturamento ou preço ausente. Se faltar contexto, pergunte primeiro."
+  },
+  {
+   "heading": "Como conferir o resultado",
+   "text": "Abra os links citados. Confira se os preços e as ofertas ainda aparecem nos sites originais. Uma lacuna identificada pela IA é hipótese, não prova de demanda. Converse com clientes reais antes de investir."
+  },
+  {
+   "heading": "O que a habilidade faz",
+   "text": "O README descreve um processo de pesquisa do produto, mercado e concorrentes, com estruturas para comparação e síntese. O código é público e gratuito sob MIT. Isso não substitui pesquisa de campo nem garante que a ideia vá vender."
+  }
+ ],
+ "outro": "Gostou? Comente outras palavras nos posts de @glauber.moraes.mkt para receber mais materiais."
+}

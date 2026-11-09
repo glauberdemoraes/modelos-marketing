@@ -1,0 +1,20 @@
+{
+ "filename": "guia-curriculo-vaga-claude-code.pdf",
+ "title": "Currículo para uma vaga real com Claude Code",
+ "intro": "Material de @glauber.moraes.mkt. Problema: mandar o mesmo currículo para vagas diferentes. Solução: o Job Application Agent usa o Claude Code para comparar a vaga com o seu histórico real e preparar currículo e carta específicos.",
+ "sections": [
+  {
+   "heading": "O que ele faz",
+   "text": "O Job Application Agent usa Claude Code para comparar uma vaga com suas experiências, preparar um currículo e uma carta de apresentação específicos e gerar arquivos em PDF. O projeto é gratuito para uso pessoal: a licença é CC BY-NC (Creative Commons Atribuição-NãoComercial), que proíbe uso comercial. Claude Code e os programas necessários podem ter custos ou exigir instalação à parte."
+  },
+  {
+   "heading": "Como preparar",
+   "text": "1. Instale Claude Code, Python 3.8 ou mais recente, Node.js e uma distribuição LaTeX, conforme docs/SETUP.md do projeto.\n2. Baixe o repositório no GitHub e instale as dependências indicadas no README.\n3. Abra a pasta no Claude Code e peça: Set me up.\n4. Preencha profile/about_candidate.yml apenas com fatos verdadeiros: experiência, projetos, habilidades e preferências.\n5. Cole uma vaga real e peça ao Claude Code: Compare esta vaga com meu perfil. Prepare um currículo e uma carta específicos, sem inventar experiência. Mostre o que mudou antes de gerar os PDFs."
+  },
+  {
+   "heading": "Revisão antes do envio",
+   "text": "Confira cargo, empresa, datas, resultados, habilidades, contatos e tudo que o texto afirma sobre você. Abra os PDFs e releia. Se usar a ajuda para preencher formulários, revise cada campo e envie por sua conta. O projeto não garante entrevista nem contratação.\n\nFonte de instalação e funcionamento: https://github.com/dineshchhantyal/job-application-agent#quick-start"
+  }
+ ],
+ "outro": "Gostou? Comente outras palavras nos posts de @glauber.moraes.mkt para receber mais materiais."
+}

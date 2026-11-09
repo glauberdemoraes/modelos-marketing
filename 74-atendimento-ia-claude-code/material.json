@@ -1,0 +1,32 @@
+{
+ "filename": "guia-atendimento-ia-claude-code.pdf",
+ "title": "Monte um atendimento com IA no Claude Code",
+ "intro": "Material de @glauber.moraes.mkt. Problema: responder o cliente sem olhar o histórico. Solução: a habilidade gratuita claude-cs ajuda a montar, no Claude Code, uma triagem que junta contexto e prepara respostas para você revisar.",
+ "sections": [
+  {
+   "heading": "O que você recebe",
+   "text": "Um caminho para testar a habilidade gratuita claude-cs, de Nathan Baschez, e desenhar um fluxo de atendimento adaptado ao seu negócio. Ela ajuda a criar a automação; não é um atendente pronto."
+  },
+  {
+   "heading": "Antes de começar",
+   "text": "Você precisa do Claude Code instalado, acesso ao repositório do seu negócio e, para integrar sistemas reais, acesso autorizado às ferramentas de suporte e cobrança. Comece com dados fictícios. Nunca cole senhas ou dados sensíveis de clientes na conversa."
+  },
+  {
+   "heading": "Instalação",
+   "text": "1. Abra o Claude Code.\n2. Adicione a coleção: claude plugin marketplace add nbashaw/claude-cs\n3. Instale: claude plugin install customer-support-builder\n4. Na pasta do projeto, peça: /customer-support-builder"
+  },
+  {
+   "heading": "Primeiro teste seguro",
+   "text": "Use este pedido: \"Quero montar uma triagem de atendimento. Antes de conectar ferramentas ou enviar mensagens, desenhe o fluxo para uma cobrança duplicada. Use somente exemplos fictícios. Mostre quais informações você precisa verificar e escreva um rascunho de resposta para eu revisar.\""
+  },
+  {
+   "heading": "O que conferir no rascunho",
+   "text": "O histórico confirma duas cobranças? A resposta reconhece o problema sem prometer estorno antes da verificação? Há uma ação clara para a equipe humana? Nada é enviado sem sua aprovação?"
+  },
+  {
+   "heading": "Próximo passo",
+   "text": "Se o teste fizer sentido, mapeie as ferramentas que sua empresa já usa e configure uma integração por vez. Teste com casos fictícios antes de usar dados reais.\n\nFonte: https://github.com/nbashaw/claude-cs"
+  }
+ ],
+ "outro": "Gostou? Comente outras palavras nos posts de @glauber.moraes.mkt para receber mais materiais."
+}
