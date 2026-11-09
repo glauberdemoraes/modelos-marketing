@@ -1,0 +1,32 @@
+{
+  "filename": "guia-aula-guia-de-estudo.pdf",
+  "title": "Transformar anotações de aula em guia de estudo com IA",
+  "intro": "Material de @glauber.moraes.mkt. Problema: terminar a aula com páginas de anotações e não saber por onde revisar. Solução: usar o NotebookLM, a ferramenta de IA do Google que responde apenas com base nos arquivos que você envia e mostra de onde tirou cada resposta.",
+  "sections": [
+    {
+      "heading": "01 / ABRA A FERRAMENTA",
+      "text": "Acesse https://notebooklm.google.com/ (o Google pode redirecionar para o endereço novo) e entre com sua conta Google. Crie um caderno para uma única disciplina ou aula. Misturar aulas diferentes no mesmo caderno deixa as respostas confusas."
+    },
+    {
+      "heading": "02 / REÚNA AS FONTES",
+      "text": "Adicione suas anotações, slides, PDFs e transcrições que você tem autorização para usar. A IA só lê o que você colocar aqui, então quanto mais completo o material, melhor o guia."
+    },
+    {
+      "heading": "03 / PEÇA O RESUMO",
+      "text": "Copie e cole: \"Resuma os conceitos centrais desta aula em linguagem simples. Para cada conceito, indique a fonte usada. Não acrescente fatos que não estejam nos arquivos.\""
+    },
+    {
+      "heading": "04 / ANTECIPE AS DÚVIDAS",
+      "text": "Copie e cole: \"Quais são as três dúvidas mais prováveis de quem estudou este material? Responda usando só as fontes e mostre onde conferir.\""
+    },
+    {
+      "heading": "05 / CONFIRA AS REFERÊNCIAS",
+      "text": "Clique nas referências que a ferramenta mostra ao lado da resposta. Leia o trecho original, corrija o que ficou confuso e complete o que faltou. A IA ajuda a achar o fio da aula; a conferência continua sendo sua."
+    },
+    {
+      "heading": "06 / MONTE A REVISÃO CURTA",
+      "text": "Copie e cole: \"Com base no que conferimos, monte uma revisão de uma página com os conceitos, um exemplo de cada e três perguntas de autoteste.\" Use isso como rascunho de estudo, nunca como autoridade final."
+    }
+  ],
+  "outro": "Fonte oficial da ferramenta: https://support.google.com/gemininotebook/answer/16206563. Gostou? Comente outras palavras nos posts de @glauber.moraes.mkt para receber mais materiais."
+}
