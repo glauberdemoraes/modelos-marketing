@@ -1,0 +1,32 @@
+{
+  "filename": "guia-planilha-gastos-escondidos.pdf",
+  "title": "PLANILHA: encontre os gastos que passam despercebidos",
+  "intro": "Material de @glauber.moraes.mkt. Problema: uma planilha cheia de lançamentos esconde despesas que se repetem e pesam no fim do mês. Solução: usar a habilidade xlsx do projeto público anthropics/skills (habilidade é um pacote de instruções que ensina o Claude Code a fazer uma tarefa) para ler, somar e analisar o arquivo.",
+  "sections": [
+    {
+      "heading": "01 / O QUE É",
+      "text": "A habilidade xlsx ajuda o Claude Code a ler, editar e analisar arquivos de planilha. O código está disponível para consulta, mas confira os termos de licença antes de reutilizá-lo ou distribuí-lo. Fonte: https://github.com/anthropics/skills/tree/main/skills/xlsx"
+    },
+    {
+      "heading": "02 / INSTALE",
+      "text": "O repositório da habilidade está no GitHub (site onde projetos de código são publicados). Consulte as instruções do repositório https://github.com/anthropics/skills para adicioná-lo ao Claude Code e leia a licença em https://github.com/anthropics/skills/blob/main/skills/xlsx/LICENSE.txt antes de instalar ou redistribuir."
+    },
+    {
+      "heading": "03 / PREPARE A PLANILHA",
+      "text": "Use uma cópia do arquivo, sem dados sensíveis. Deixe uma linha por lançamento e, se possível, colunas de data, descrição, categoria e valor. Se a planilha estiver desorganizada, peça primeiro que o Claude Code a descreva sem alterar o original."
+    },
+    {
+      "heading": "04 / PEDIDO PRONTO PARA COPIAR",
+      "text": "Copie e cole: \"Abra uma cópia desta planilha e identifique as colunas de data, descrição, categoria e valor. Não altere o arquivo original. Some as despesas por categoria e por mês. Mostre os cinco grupos que mais pesam e as despesas que se repetem. Separe fatos calculados de hipóteses sobre o motivo dos gastos. Crie uma nova planilha com o resumo, as contas usadas e uma aba de conferência. Antes de concluir, verifique se a soma das categorias bate com a soma das linhas de origem. Se faltar alguma coluna, pergunte antes de calcular.\""
+    },
+    {
+      "heading": "05 / CONFIRA ANTES DE DECIDIR",
+      "text": "Compare o total calculado com o arquivo original. Revise classificações, valores negativos, duplicatas e lançamentos sem data. Um gráfico bonito pode esconder erro de base. Use o resultado para investigar despesas, não para tomar decisão financeira sem conferir os números."
+    },
+    {
+      "heading": "06 / CUSTOS",
+      "text": "O uso do Claude Code pode ter custo conforme o seu plano. Não se afirma gratuidade irrestrita do Claude Code nem da reutilização da habilidade."
+    }
+  ],
+  "outro": "Fonte oficial: https://github.com/anthropics/skills/tree/main/skills/xlsx. Gostou? Comente outras palavras nos posts de @glauber.moraes.mkt para receber mais materiais."
+}

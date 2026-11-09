@@ -1,0 +1,32 @@
+{
+  "filename": "guia-radar-analista-conteudo.pdf",
+  "title": "Guia RADAR: um analista de conteúdo no Codex",
+  "intro": "Material de @glauber.moraes.mkt. Problema: escolher a próxima pauta no palpite, sem entender o que funcionou nos seus posts. Solução: usar a habilidade social-content-analysis (habilidade é um pacote de instruções que ensina o Codex a fazer uma tarefa) para comparar seus posts, achar padrões e propor pautas originais.",
+  "sections": [
+    {
+      "heading": "01 / O QUE VOCÊ RECEBE",
+      "text": "O link oficial da habilidade social-content-analysis, um roteiro de instalação e um pedido pronto. A habilidade é gratuita e tem licença MIT. O uso do Codex pode ter custo conforme o seu acesso. Fonte oficial: https://github.com/Trierner/social-content-analysis-skill"
+    },
+    {
+      "heading": "02 / SEPARE O MATERIAL",
+      "text": "Reúna três a cinco posts seus: o texto, uma captura e, se tiver, comentários e métricas exportadas. Use apenas material seu ou conteúdo público que você pode analisar. Remova dados pessoais de clientes. A habilidade não coleta dados privados nem garante que uma pauta vá viralizar."
+    },
+    {
+      "heading": "03 / INSTALE NO CODEX",
+      "text": "Abra o repositório oficial. A versão pronta está na pasta codex/; a versão para Claude ainda está em desenvolvimento. Siga a seção \"Installing For Codex\" do README e instale a habilidade social-content-analysis. Reinicie o Codex para que ele reconheça a nova habilidade. Confira sempre as instruções atuais antes de executar comandos."
+    },
+    {
+      "heading": "04 / PEDIDO PRONTO PARA COPIAR",
+      "text": "Copie e cole: \"Use a habilidade social-content-analysis para comparar os posts que vou fornecer. Para cada um, identifique o gancho, a promessa, o formato, as reações visíveis e o que não dá para concluir com os dados disponíveis. Depois, encontre padrões entre eles e proponha três pautas originais para o meu público. Não copie frases ou estrutura de outro criador. Mostre qual evidência sustenta cada sugestão e o que eu deveria testar no próximo post.\" Cole os posts e dados logo abaixo desse pedido."
+    },
+    {
+      "heading": "05 / REVISE A RESPOSTA",
+      "text": "Confira se o Codex citou os posts fornecidos e não inventou métricas. Separe observação de hipótese: um post com mais curtidas não prova sozinho a causa do resultado. Escolha uma pauta que responda a uma dor real do seu público, escreva sua versão original e teste, comparando com a sua própria linha de base."
+    },
+    {
+      "heading": "06 / LIMITE",
+      "text": "O objetivo é sair do palpite puro e criar a próxima publicação com uma hipótese clara. A decisão editorial continua sendo sua."
+    }
+  ],
+  "outro": "Fonte oficial: https://github.com/Trierner/social-content-analysis-skill. Gostou? Comente outras palavras nos posts de @glauber.moraes.mkt para receber mais materiais."
+}

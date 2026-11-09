@@ -1,0 +1,32 @@
+{
+  "filename": "guia-editor-video-claude-code.pdf",
+  "title": "Seu primeiro corte de vídeo vertical com Codex ou Claude Code e OpenClip",
+  "intro": "Material de @glauber.moraes.mkt. Problema: você gravou um vídeo na horizontal e a parte chata é cortar, mudar o formato e exportar para o Reels. Solução: usar a coleção OpenClip, um conjunto de habilidades (instruções prontas) que liga o Codex ou o Claude Code ao editor de vídeo OpenClip, para cortar um trecho e entregar um arquivo vertical.",
+  "sections": [
+    {
+      "heading": "01 / ESCOLHA O VÍDEO",
+      "text": "Escolha um vídeo seu, com autorização de uso. Separe um trecho curto que tenha começo e fim claros e anote o momento aproximado em que ele começa e termina. Guarde uma cópia do original antes de qualquer edição."
+    },
+    {
+      "heading": "02 / ABRA O REPOSITÓRIO OFICIAL",
+      "text": "Acesse https://github.com/OpenClip-App/agent-skills (repositório é a pasta pública onde o projeto guarda seus arquivos). A coleção conecta o assistente ao editor OpenClip e tem licença MIT, que permite usar e copiar os arquivos da coleção."
+    },
+    {
+      "heading": "03 / INSTALE E CONECTE",
+      "text": "Siga a seção Quickstart do README para Codex ou a seção de plugin para Claude Code (plugin é um complemento que acrescenta recursos ao assistente). O serviço pede uma conta OpenClip: crie e faça a conexão como o README indica. Nunca coloque senha em mensagens para a IA."
+    },
+    {
+      "heading": "04 / PEDIDO PRONTO PARA COPIAR",
+      "text": "Copie e cole: \"Use a ferramenta de edição OpenClip neste vídeo. Separe o trecho entre [início] e [fim]. Faça uma cópia em formato vertical 9:16 para Reels, mantendo a pessoa e o assunto principal dentro do quadro. Preserve o áudio original. Salve o resultado como um arquivo novo. Antes de começar, me diga qual arquivo vai usar e quais mudanças pretende fazer.\" Troque os campos entre colchetes pelos tempos reais. Se não houver pessoa no vídeo, diga qual objeto precisa continuar visível."
+    },
+    {
+      "heading": "05 / REVISE ANTES DE PUBLICAR",
+      "text": "Assista ao arquivo inteiro no celular. Confira se nenhuma frase foi cortada no meio, se o assunto não saiu do quadro e se o áudio continua compreensível. Se precisar, ajuste o pedido e gere outra versão. Esse fluxo faz corte e enquadramento; ele não escolhe sozinho os melhores momentos do seu vídeo."
+    },
+    {
+      "heading": "06 / CUSTOS E LICENÇA",
+      "text": "Segundo o README, as funções de corte, enquadramento e conversão exigem conta OpenClip, mas não exigem assinatura nem créditos. O OpenClip é um produto comercial: veja no README quais funções são gratuitas e quais exigem assinatura. O Codex ou o Claude Code podem ter custos próprios conforme o seu plano."
+    }
+  ],
+  "outro": "Fonte oficial: https://github.com/OpenClip-App/agent-skills. Gostou? Comente outras palavras nos posts de @glauber.moraes.mkt para receber mais materiais."
+}

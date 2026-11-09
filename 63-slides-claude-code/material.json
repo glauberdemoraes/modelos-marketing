@@ -1,0 +1,28 @@
+{
+  "filename": "guia-slides-claude-code.pdf",
+  "title": "Sua primeira apresentação com Claude Code",
+  "intro": "Material de @glauber.moraes.mkt. Problema: perder tempo diante de slides em branco. Solução: instalar a habilidade pptx (uma habilidade é um pacote de instruções que ensina o Claude Code a fazer uma tarefa) do repositório oficial da Anthropic e pedir uma apresentação editável.",
+  "sections": [
+    {
+      "heading": "01 / ONDE ENCONTRAR",
+      "text": "Repositório: https://github.com/anthropics/skills. Habilidade: https://github.com/anthropics/skills/tree/main/skills/pptx. Instruções de instalação: https://github.com/anthropics/skills#try-in-claude-code-claudeai-and-the-api. O repositório é público e a habilidade usa licença Apache 2.0."
+    },
+    {
+      "heading": "02 / INSTALE NO CLAUDE CODE",
+      "text": "No Claude Code, adicione o repositório com /plugin marketplace add anthropics/skills (marketplace é o catálogo de complementos). Depois instale document-skills@anthropic-agent-skills pelo menu de plugins ou com /plugin install document-skills@anthropic-agent-skills. Confirme que a habilidade pptx está disponível."
+    },
+    {
+      "heading": "03 / PEDIDO PRONTO PARA ADAPTAR",
+      "text": "Copie e cole: \"Use a habilidade pptx para criar uma apresentação editável sobre [ASSUNTO] para [PÚBLICO]. Ela deve ajudar as pessoas a decidir [DECISÃO]. Use somente estes dados: [DADOS CONFIRMADOS]. Estruture uma abertura, três ideias centrais e um fechamento com a próxima ação. Evite texto longo em cada slide. Entregue o arquivo de apresentação e revise se todos os textos estão legíveis. Se faltar informação, pergunte antes de inventar.\""
+    },
+    {
+      "heading": "04 / ANTES DE ENVIAR",
+      "text": "Abra o arquivo. Confira os números contra a fonte original, leia todos os textos e ajuste o visual à sua identidade. Veja se a última página deixa clara a ação esperada. A ferramenta acelera o rascunho, mas a revisão humana continua sendo sua."
+    },
+    {
+      "heading": "05 / CUSTOS E LICENÇA",
+      "text": "A habilidade é gratuita e tem licença Apache 2.0 (confira em https://github.com/anthropics/skills/blob/main/skills/pptx/LICENSE.txt). O uso do Claude Code pode ter custos próprios conforme o seu plano."
+    }
+  ],
+  "outro": "Fonte oficial: https://github.com/anthropics/skills (habilidade pptx: https://github.com/anthropics/skills/tree/main/skills/pptx). Gostou? Comente outras palavras nos posts de @glauber.moraes.mkt para receber mais materiais."
+}

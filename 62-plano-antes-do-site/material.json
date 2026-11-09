@@ -1,0 +1,36 @@
+{
+  "filename": "guia-plano-antes-do-site.pdf",
+  "title": "Superpowers: um plano antes de mexer no seu site",
+  "intro": "Material de @glauber.moraes.mkt. Problema: um pedido vago para a IA vira retrabalho, porque ela escolhe tudo sozinha e só mostra o resultado depois de mexer nos arquivos. Solução: usar o Superpowers, uma coleção gratuita de instruções que orienta o Claude Code ou o Codex a perguntar primeiro, apresentar um plano, dividir o trabalho e testar o resultado.",
+  "sections": [
+    {
+      "heading": "01 / O QUE É",
+      "text": "Superpowers é uma coleção gratuita de instruções para assistentes de programação como o Claude Code e o Codex. O projeto é aberto e usa licença MIT. Isso não dispensa a sua aprovação nem garante que o site ficará pronto sem revisão. Link oficial: https://github.com/obra/superpowers"
+    },
+    {
+      "heading": "02 / INSTALE",
+      "text": "No Claude Code, abra o comando de plugins (plugin é um complemento que acrescenta recursos ao assistente) e instale superpowers@claude-plugins-official, conforme as instruções oficiais do projeto. No Codex, abra /plugins, procure Superpowers e selecione a instalação. Confira os passos atuais no README antes de instalar, pois as telas podem mudar."
+    },
+    {
+      "heading": "03 / TESTE SEM RISCO",
+      "text": "Abra uma cópia de um projeto simples ou crie uma pasta de teste. Nunca comece pelo site que já recebe clientes."
+    },
+    {
+      "heading": "04 / PEDIDO PRONTO PARA COPIAR",
+      "text": "Copie e cole: \"Quero melhorar a página inicial deste site. Antes de alterar qualquer arquivo, pergunte quem é o público, qual ação a página precisa incentivar e quais partes devem continuar iguais. Mostre um plano curto para eu aprovar.\""
+    },
+    {
+      "heading": "05 / APROVE O PLANO",
+      "text": "Leia a proposta e corrija o que estiver errado. Só então autorize a implementação. Depois peça que mostre os arquivos alterados e teste o caminho que um visitante usaria. Abra a página você mesmo no celular e no computador antes de publicar."
+    },
+    {
+      "heading": "06 / PERGUNTAS QUE VALE RESPONDER",
+      "text": "Quem vai usar a página? Qual é a ação principal: contato, compra ou cadastro? Que texto, cor, imagem ou função não pode mudar? Como você vai reconhecer que o trabalho ficou bom?"
+    },
+    {
+      "heading": "07 / LIMITES E CUIDADOS",
+      "text": "O Superpowers organiza o trabalho do assistente. Ele não substitui o conhecimento do seu negócio, a revisão visual nem o teste final com pessoas reais. Para um site que já recebe clientes, trabalhe primeiro em uma cópia e mantenha um caminho para voltar à versão anterior. O uso do Claude Code ou do Codex pode ter custos próprios."
+    }
+  ],
+  "outro": "Fonte oficial: https://github.com/obra/superpowers (licença MIT: https://github.com/obra/superpowers/blob/main/LICENSE). Gostou? Comente outras palavras nos posts de @glauber.moraes.mkt para receber mais materiais."
+}

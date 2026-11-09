@@ -1,0 +1,24 @@
+{
+  "filename": "guia-criativo-anuncios-agente.pdf",
+  "title": "Anúncios diferentes com o Ad Creative Strategist",
+  "intro": "Material de @glauber.moraes.mkt. Problema: repetir a mesma ideia em todos os anúncios e não ter o que testar. Solução: usar o agente Ad Creative Strategist, do projeto Agency Agents (um agente é um conjunto de instruções que faz o Claude Code ou o Codex assumir um papel), para criar ângulos e textos distintos e planejar testes.",
+  "sections": [
+    {
+      "heading": "01 / O QUE É",
+      "text": "O Ad Creative Strategist é um agente do projeto Agency Agents (https://github.com/msitarzewski/agency-agents). Ele orienta o Claude Code ou o Codex a criar textos e ângulos para anúncios e a planejar testes. O projeto é público e tem licença MIT. O código é gratuito; o serviço de IA escolhido pode ter custo. Arquivo do agente: https://github.com/msitarzewski/agency-agents/blob/main/paid-media/paid-media-creative-strategist.md"
+    },
+    {
+      "heading": "02 / INSTALE",
+      "text": "Abra a página do projeto e siga as instruções de instalação para Claude Code ou Codex. O README oferece um aplicativo e comandos de instalação. Para instalar apenas esse agente, selecione paid-media-creative-strategist na lista de agentes. Revise as permissões antes de executar qualquer comando. A instalação não cria nem publica anúncios por conta própria."
+    },
+    {
+      "heading": "03 / PEDIDO PRONTO PARA COPIAR",
+      "text": "Copie e cole: \"Atue como Ad Creative Strategist. Quero preparar anúncios para [produto ou serviço]. Meu público é [quem compra]. O problema que resolvo é [problema]. O diferencial comprovável é [fato]. Aqui estão meus anúncios atuais: [colar textos]. Crie três ângulos realmente diferentes. Para cada um, escreva um texto principal, um título e a hipótese que eu testaria. Use apenas fatos que forneci. Marque qualquer afirmação que precise ser conferida. Não publique nem altere campanhas.\""
+    },
+    {
+      "heading": "04 / ANTES DE USAR",
+      "text": "Confira preço, oferta, depoimentos, direitos sobre imagens e regras da plataforma de anúncios. Compare os anúncios com a mesma oferta e acompanhe os resultados reais. Um texto novo não garante venda; a revisão humana continua sendo sua."
+    }
+  ],
+  "outro": "Fonte oficial: https://github.com/msitarzewski/agency-agents. Gostou? Comente outras palavras nos posts de @glauber.moraes.mkt para receber mais materiais."
+}

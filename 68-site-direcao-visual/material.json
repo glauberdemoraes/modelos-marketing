@@ -1,0 +1,28 @@
+{
+  "filename": "guia-site-direcao-visual.pdf",
+  "title": "Dê uma direção visual ao seu site com Claude Code",
+  "intro": "Material de @glauber.moraes.mkt. Problema: o site parece improvisado e você não sabe por onde começar o visual. Solução: usar a habilidade UI UX Pro Max (habilidade é um pacote de instruções que ensina o Claude Code a fazer uma tarefa), que reúne referências de estilos, cores, fontes e regras de experiência para propor uma direção visual.",
+  "sections": [
+    {
+      "heading": "01 / O QUE VOCÊ RECEBE",
+      "text": "O link da habilidade UI UX Pro Max e um pedido pronto para criar uma proposta visual para uma página do seu negócio. Ela não substitui a revisão de um designer nem garante resultado de vendas. Repositório oficial: https://github.com/nextlevelbuilder/ui-ux-pro-max-skill"
+    },
+    {
+      "heading": "02 / ANTES DE COMEÇAR",
+      "text": "Abra o projeto do seu site no Claude Code. Faça uma cópia dos arquivos e reúna o nome do negócio, o público, a oferta, o objetivo da página e as cores que você já usa. O código da habilidade é gratuito e tem licença MIT; o uso do Claude Code pode ter custo."
+    },
+    {
+      "heading": "03 / INSTALE",
+      "text": "Dentro do Claude Code, conforme o README, rode: /plugin marketplace add nextlevelbuilder/ui-ux-pro-max-skill (marketplace é o catálogo de complementos) e depois /plugin install ui-ux-pro-max@ui-ux-pro-max-skill. Confira o README atual antes de executar."
+    },
+    {
+      "heading": "04 / PEDIDO PRONTO PARA COPIAR",
+      "text": "Copie e cole: \"Quero melhorar a página inicial do meu site. Meu negócio é [descreva]. Meu público é [descreva]. Minha oferta principal é [descreva]. A ação que quero do visitante é [descreva]. Preserve as informações verdadeiras, minha marca e o funcionamento atual. Use a habilidade UI UX Pro Max para propor cores, fontes, organização da página e uma versão visual mais clara. Antes de mudar os arquivos, mostre o plano e explique cada escolha em linguagem simples. Depois da minha aprovação, implemente e mostre a página em tela pequena e grande. Liste tudo o que mudou para eu revisar.\""
+    },
+    {
+      "heading": "05 / CONFERÊNCIA ANTES DE PUBLICAR",
+      "text": "Leia a oferta como um cliente novo. Teste botões, formulário e links. Confira textos, imagens, contraste e o visual no celular. Se houver designer na equipe, peça a revisão final dele."
+    }
+  ],
+  "outro": "Fonte oficial: https://github.com/nextlevelbuilder/ui-ux-pro-max-skill. Gostou? Comente outras palavras nos posts de @glauber.moraes.mkt para receber mais materiais."
+}

@@ -1,0 +1,28 @@
+{
+  "filename": "guia-checkout-browser-harness.pdf",
+  "title": "Teste o caminho de compra com Browser Harness e Claude Code",
+  "intro": "Material de @glauber.moraes.mkt. Problema: descobrir só pelo cliente que o botão de compra do seu site está quebrado. Solução: usar o Browser Harness, um projeto de código aberto que permite ao Claude Code ou ao Codex abrir páginas, clicar, digitar e ler o que aparece no navegador, para ensaiar o caminho de compra antes do cliente.",
+  "sections": [
+    {
+      "heading": "01 / O QUE É",
+      "text": "Browser Harness é um projeto de código aberto (o código pode ser lido e copiado por qualquer pessoa) sob licença MIT. É gratuito para baixar; o uso do agente de IA pode exigir assinatura ou outros custos. Fonte oficial: https://github.com/browser-use/browser-harness"
+    },
+    {
+      "heading": "02 / INSTALE",
+      "text": "Abra o repositório, leia o README e as instruções atuais de instalação em https://github.com/browser-use/browser-harness/blob/main/install.md. Escolha o modo de conexão ao navegador adequado ao seu computador e confirme que o Claude Code está conectado ao navegador antes de pedir o teste."
+    },
+    {
+      "heading": "03 / PREPARE O TESTE",
+      "text": "Use uma conta de teste. Evite dados reais de cartão e ações que criem pedidos. Separe o endereço da loja e descreva o caminho que um cliente faria, por exemplo: abrir a página inicial, escolher um produto, adicionar ao carrinho e chegar à etapa de pagamento."
+    },
+    {
+      "heading": "04 / PEDIDO PRONTO PARA COPIAR",
+      "text": "Copie e cole: \"Use o Browser Harness para verificar o caminho de compra em [ENDEREÇO DO SITE]. Abra a página, escolha [PRODUTO DE TESTE], adicione ao carrinho e avance até a etapa de pagamento. Não finalize a compra, não preencha dados reais e não altere o site. Em cada etapa, diga o que apareceu na tela. Se houver erro, informe a página, o botão ou campo envolvido, o que você esperava e o que aconteceu. Se não conseguir testar uma etapa, diga isso claramente. Ao final, resuma os problemas encontrados e inclua evidência visual quando a ferramenta permitir.\""
+    },
+    {
+      "heading": "05 / CONFIRA O RESULTADO",
+      "text": "Repita manualmente qualquer falha apontada antes de pedir uma correção. Teste também no celular, se o seu público compra pelo celular. Não trate a ausência de erro como garantia de que o site inteiro funciona: o teste cobre só o caminho solicitado e não substitui uma auditoria completa."
+    }
+  ],
+  "outro": "Fonte oficial: https://github.com/browser-use/browser-harness (instalação: https://github.com/browser-use/browser-harness/blob/main/install.md). Gostou? Comente outras palavras nos posts de @glauber.moraes.mkt para receber mais materiais."
+}
