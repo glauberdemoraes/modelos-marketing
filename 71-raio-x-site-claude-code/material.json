@@ -1,0 +1,32 @@
+{
+  "filename": "guia-raio-x-site-claude-code.pdf",
+  "title": "Fazer um raio-X do seu site com Claude Code",
+  "intro": "Material de @glauber.moraes.mkt. Problema: o site está no ar, mas pode esconder problemas que atrapalham ser encontrado no Google. Solução: a extensão gratuita seo-audit-skill, criada por Aman Talwar, faz o Claude Code (a IA que trabalha com arquivos no seu computador) ler as páginas públicas e montar um relatório em PDF com ações priorizadas.",
+  "sections": [
+    {
+      "heading": "01 / O QUE ELA FAZ",
+      "text": "Lê as páginas públicas do site e organiza problemas de estrutura, conteúdo e descoberta em busca. Cada achado traz a página afetada, a evidência, uma correção e um jeito de conferir o resultado. O relatório ajuda a decidir o que corrigir; não promete posição no Google. Fonte: https://github.com/amantalwar/seo-audit-skill"
+    },
+    {
+      "heading": "02 / ANTES DE COMEÇAR",
+      "text": "Tenha o Claude Code e o Python 3.10 ou mais recente instalados. Use um site seu ou que você tenha autorização para analisar. O código tem licença MIT e pode ser usado de graça; o Claude Code pode ter custo conforme o seu plano."
+    },
+    {
+      "heading": "03 / INSTALE",
+      "text": "No terminal (a janela de comandos), rode os comandos do README: claude plugin marketplace add amantalwar/seo-audit-skill e depois claude plugin install talwar-seo-audit@talwar-seo-audit-marketplace. Se quiser ajuda, peça ao Claude Code: \"Explique cada comando antes de executar e confira os requisitos do projeto.\" Nunca cole senhas no chat."
+    },
+    {
+      "heading": "04 / RODE A PRIMEIRA ANÁLISE",
+      "text": "No Claude Code, digite /talwar-seo-audit https://seusite.com.br trocando pelo seu endereço. A ferramenta começa pela página inicial e segue os links internos; o limite padrão descrito no README é de 25 páginas. Dados reais de velocidade podem pedir uma chave opcional; a auditoria básica não precisa dela."
+    },
+    {
+      "heading": "05 / LEIA O PDF SEM SE PERDER",
+      "text": "1) Abra o plano de ação priorizado. 2) Escolha um problema que afete uma página importante do negócio. 3) Confira a evidência na própria página antes de mexer. 4) Faça uma mudança por vez e use a verificação sugerida. 5) Rode a análise de novo e compare."
+    },
+    {
+      "heading": "06 / LIMITES",
+      "text": "Página bloqueada, fora do ar ou protegida gera relatório limitado, e a ferramenta não contorna isso. Em mudanças grandes no site, revise as recomendações com um profissional."
+    }
+  ],
+  "outro": "Fonte e licença: https://github.com/amantalwar/seo-audit-skill. Gostou? Comente outras palavras nos posts de @glauber.moraes.mkt para receber mais materiais."
+}

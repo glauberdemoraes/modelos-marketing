@@ -1,0 +1,28 @@
+{
+  "filename": "guia-triagem-email-claude-code.pdf",
+  "title": "Sua caixa de e-mail em ordem com Claude Code",
+  "intro": "Material de @glauber.moraes.mkt. Problema: a mensagem do cliente some no meio de avisos e propaganda. Solução: a habilidade gratuita email-triage (habilidade é um pacote de instruções que ensina o Claude Code a fazer uma tarefa) separa as mensagens, destaca o que pede resposta e prepara rascunhos. Ela não envia nada por você.",
+  "sections": [
+    {
+      "heading": "01 / O QUE É",
+      "text": "Uma habilidade aberta para Claude Code. Na primeira vez, ela faz perguntas sobre sua caixa e cria instruções ajustadas à sua rotina. Depois classifica mensagens, destaca urgências e escreve rascunhos nas categorias que você escolher. Fonte: https://github.com/ai-orchestrators/email-triage"
+    },
+    {
+      "heading": "02 / ANTES DE COMEÇAR",
+      "text": "Você precisa do Claude Code e de uma conexão autorizada com seu Gmail ou Outlook; o repositório explica as opções. A habilidade é gratuita, com licença MIT, mas o Claude Code e o serviço de e-mail podem ter custos próprios. Nunca cole a senha da caixa numa conversa."
+    },
+    {
+      "heading": "03 / PASSO A PASSO",
+      "text": "1) Leia o README e a seção de instalação do repositório. 2) Instale a habilidade na pasta de habilidades do Claude Code, como o README indica. 3) No Claude Code, peça: \"Configure a triagem da minha caixa de e-mail\". 4) Responda sobre provedor, categorias, pessoas importantes e que tipo de mensagem pode ganhar rascunho. 5) Teste numa amostra pequena: \"Mostre como classificaria as mensagens recentes e quais rascunhos prepararia. Não envie nem arquive nada.\" 6) Revise categorias, prioridades e cada rascunho antes de usar na rotina."
+    },
+    {
+      "heading": "04 / REGRA DE SEGURANÇA",
+      "text": "Comece só com leitura e rascunhos. A habilidade declara que não envia mensagens e não arquiva sem aprovação; mesmo assim, confira as permissões da conexão de e-mail e revise cada ação proposta."
+    },
+    {
+      "heading": "05 / PEDIDO PRONTO PARA COPIAR",
+      "text": "\"Separe as mensagens recentes entre clientes, financeiro, avisos e propaganda. Mostre primeiro as que pedem minha resposta. Prepare rascunhos apenas para clientes. Não envie mensagens nem arquive nada.\""
+    }
+  ],
+  "outro": "Fonte: https://github.com/ai-orchestrators/email-triage. Gostou? Comente outras palavras nos posts de @glauber.moraes.mkt para receber mais materiais."
+}
